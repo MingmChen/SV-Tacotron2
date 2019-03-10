@@ -25,7 +25,7 @@ class GE2ELoss(nn.Module):
         cossim = utils.get_cossim(embeddings, centroids).to(device)
 
         sim_matrix = self.w * cossim + self.b
-        loss, _ = utils.calc_loss(sim_matrix)
+        loss, _ = utils.cal_loss(sim_matrix)
 
         return loss
 

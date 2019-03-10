@@ -31,7 +31,7 @@ class SpeakerEncoder(nn.Module):
 
         x, _ = self.lstm(x)
         x = x[:, x.size(1) - 1]
-        x = self.projection()
+        x = self.projection(x)
         x = x / torch.norm(x)
 
         return x

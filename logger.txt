@@ -1,0 +1,9 @@
+Epoch [3/500], Step [5/1000], Loss: 80.4627.
+Time Used: 32.113s, Estimated Time Remaining: 2846.714s.
+
+Epoch [5/500], Step [10/1000], Loss: 80.4777.
+Time Used: 55.765s, Estimated Time Remaining: 2704.605s.
+
+Epoch [8/500], Step [15/1000], Loss: 80.4411.
+Time Used: 86.174s, Estimated Time Remaining: 2684.098s.
+

@@ -74,6 +74,7 @@ def cal_loss(sim_matrix):
 if __name__ == "__main__":
 
     test_matrix = torch.randn(20, 30, 6)
+    # test_matrix = torch.randn(2, 20, 30, 6)
     # print(test_matrix)
 
     centroids = get_centroids(test_matrix)

@@ -3,6 +3,7 @@ import torch.autograd as grad
 import torch.nn.functional as F
 
 import librosa
+import random
 import numpy as np
 
 import hparams as hp
@@ -71,6 +72,53 @@ def cal_loss(sim_matrix):
     return loss, per_embedding_loss
 
 
+def cutstr(string):
+    index = 0
+    for ind, char in enumerate(string):
+        if char == "_":
+            index = ind
+            break
+    i = 0
+    for ind, char in enumerate(string):
+        if char == ".":
+            i = ind
+            break
+    first = int(string[0:index])
+    end = int(string[index + 1:i])
+    return first, end
+
+
+def random_sample(list_for_sample, num):
+    index_list = random.sample([i for i in range(len(list_for_sample))], num)
+    return [list_for_sample[ind] for ind in index_list]
+
+
+def random_cut(mel, length=hp.tisv_frame):
+    total_length = np.shape(mel)[0]
+
+    if total_length <= hp.tisv_frame:
+        # raise ValueError("total length is too short!")
+        mel = np.concatenate((mel, mel[0:total_length, :]))
+
+    total_length = np.shape(mel)[0]
+
+    if total_length < 181:
+        # raise ValueError("something wrong!")
+        mel = np.concatenate((mel, mel[0:total_length, :]))
+
+    total_length = np.shape(mel)[0]
+
+    if total_length < 181:
+        # raise ValueError("something wrong!")
+        mel = np.concatenate((mel, mel[0:total_length, :]))
+
+    total_length = np.shape(mel)[0]
+
+    start = random.randint(0, total_length - length - 1)
+
+    return mel[start:start + length, :]
+
+
 if __name__ == "__main__":
 
     test_matrix = torch.randn(20, 30, 6)
@@ -85,3 +133,6 @@ if __name__ == "__main__":
 
     loss, _ = cal_loss(sim)
     print(loss)
+
+    mel = np.ndarray((180, 40))
+    print(np.shape(random_cut(mel, 180)))

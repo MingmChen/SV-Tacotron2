@@ -19,7 +19,10 @@ class SVData(Dataset):
 
     def __len__(self):
         list_dir = os.listdir(self.dataset_path)
-        speaker_len = int(list_dir[len(list_dir)-1][0]) + 1
+        # print(len(list_dir))
+        # speaker_len = int(list_dir[len(list_dir)-1][0]) + 1
+        # print(speaker_len)
+        speaker_len = 109
 
         return speaker_len
 
@@ -32,13 +35,21 @@ class SVData(Dataset):
 
         if total_length <= hparams.tisv_frame:
             # raise ValueError("total length is too short!")
-            mel = np.concatenate(
-                (mel, mel[2 * total_length - hparams.tisv_frame - 1:total_length, :]))
+            mel = np.concatenate((mel, mel[0:total_length, :]))
 
         total_length = np.shape(mel)[0]
 
         if total_length < 181:
-            raise ValueError("something wrong!")
+            # raise ValueError("something wrong!")
+            mel = np.concatenate((mel, mel[0:total_length, :]))
+
+        total_length = np.shape(mel)[0]
+
+        if total_length < 181:
+            # raise ValueError("something wrong!")
+            mel = np.concatenate((mel, mel[0:total_length, :]))
+        
+        total_length = np.shape(mel)[0]
 
         start = random.randint(0, total_length - length - 1)
 

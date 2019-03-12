@@ -7,3 +7,3741 @@ Time Used: 55.765s, Estimated Time Remaining: 2704.605s.
 Epoch [8/500], Step [15/1000], Loss: 80.4411.
 Time Used: 86.174s, Estimated Time Remaining: 2684.098s.
 
+Epoch [3/500], Step [5/1000], Loss: 80.5052.
+Time Used: 15.617s, Estimated Time Remaining: 930.768s.
+
+Epoch [5/500], Step [10/1000], Loss: 80.4826.
+Time Used: 27.202s, Estimated Time Remaining: 857.603s.
+
+Epoch [1/500], Step [5/11000], Loss: 80.4427.
+Time Used: 7.489s, Estimated Time Remaining: 9904.529s.
+
+Epoch [1/500], Step [10/11000], Loss: 80.4548.
+Time Used: 11.464s, Estimated Time Remaining: 9241.640s.
+
+Epoch [1/500], Step [15/11000], Loss: 80.1589.
+Time Used: 15.384s, Estimated Time Remaining: 8978.889s.
+
+Epoch [1/500], Step [20/11000], Loss: 80.3592.
+Time Used: 19.399s, Estimated Time Remaining: 8905.296s.
+
+Epoch [1/500], Step [5/11000], Loss: 80.4632.
+Time Used: 7.198s, Estimated Time Remaining: 9358.896s.
+
+Epoch [1/500], Step [10/11000], Loss: 80.3426.
+Time Used: 11.095s, Estimated Time Remaining: 8904.638s.
+
+Epoch [1/500], Step [15/11000], Loss: 80.3304.
+Time Used: 14.999s, Estimated Time Remaining: 8771.841s.
+
+Epoch [1/500], Step [20/11000], Loss: 79.1240.
+Time Used: 18.864s, Estimated Time Remaining: 8694.077s.
+
+Epoch [1/500], Step [5/6000], Loss: 197.7365.
+Time Used: 13.152s, Estimated Time Remaining: 11873.238s.
+
+Epoch [1/500], Step [10/6000], Loss: 197.7492.
+Time Used: 22.776s, Estimated Time Remaining: 11678.570s.
+
+Epoch [2/500], Step [15/6000], Loss: 197.3586.
+Time Used: 36.353s, Estimated Time Remaining: 11609.425s.
+
+Epoch [2/500], Step [20/6000], Loss: 197.5068.
+Time Used: 45.987s, Estimated Time Remaining: 11562.616s.
+
+Epoch [1/500], Step [5/6000], Loss: 197.7080.
+Time Used: 13.040s, Estimated Time Remaining: 12113.487s.
+
+Epoch [1/500], Step [10/6000], Loss: 197.5247.
+Time Used: 23.013s, Estimated Time Remaining: 11947.495s.
+
+Epoch [2/500], Step [15/6000], Loss: 196.8289.
+Time Used: 37.001s, Estimated Time Remaining: 11938.691s.
+
+Epoch [2/500], Step [20/6000], Loss: 197.5824.
+Time Used: 46.896s, Estimated Time Remaining: 11896.174s.
+
+Epoch [3/500], Step [25/6000], Loss: 195.9818.
+Time Used: 60.716s, Estimated Time Remaining: 11853.816s.
+
+Epoch [3/500], Step [30/6000], Loss: 197.4470.
+Time Used: 70.682s, Estimated Time Remaining: 11822.333s.
+
+Epoch [3/500], Step [35/6000], Loss: 192.4195.
+Time Used: 80.626s, Estimated Time Remaining: 11824.641s.
+
+Epoch [4/500], Step [40/6000], Loss: 195.9002.
+Time Used: 94.447s, Estimated Time Remaining: 11798.682s.
+
+Epoch [4/500], Step [45/6000], Loss: 196.6145.
+Time Used: 104.405s, Estimated Time Remaining: 11826.784s.
+
+Epoch [5/500], Step [50/6000], Loss: 197.1256.
+Time Used: 118.394s, Estimated Time Remaining: 11836.359s.
+
+Epoch [5/500], Step [55/6000], Loss: 197.5521.
+Time Used: 128.253s, Estimated Time Remaining: 11794.445s.
+
+Epoch [5/500], Step [60/6000], Loss: 196.1092.
+Time Used: 138.210s, Estimated Time Remaining: 11792.465s.
+
+Epoch [6/500], Step [65/6000], Loss: 195.5170.
+Time Used: 151.968s, Estimated Time Remaining: 11750.745s.
+
+Epoch [6/500], Step [70/6000], Loss: 194.2082.
+Time Used: 161.892s, Estimated Time Remaining: 11747.840s.
+
+Epoch [7/500], Step [75/6000], Loss: 194.3533.
+Time Used: 175.496s, Estimated Time Remaining: 11774.325s.
+
+Epoch [7/500], Step [80/6000], Loss: 197.3993.
+Time Used: 185.457s, Estimated Time Remaining: 11764.500s.
+
+Epoch [1/500], Step [5/6000], Loss: 197.7350.
+Time Used: 12.735s, Estimated Time Remaining: 12241.361s.
+
+Epoch [1/500], Step [10/6000], Loss: 197.5918.
+Time Used: 22.387s, Estimated Time Remaining: 11855.509s.
+
+Epoch [2/500], Step [15/6000], Loss: 197.8201.
+Time Used: 36.104s, Estimated Time Remaining: 11758.474s.
+
+Epoch [2/500], Step [20/6000], Loss: 197.2902.
+Time Used: 45.776s, Estimated Time Remaining: 11692.426s.
+
+Epoch [3/500], Step [25/6000], Loss: 194.7574.
+Time Used: 59.460s, Estimated Time Remaining: 11564.269s.
+
+Epoch [3/500], Step [30/6000], Loss: 196.7319.
+Time Used: 69.143s, Estimated Time Remaining: 11555.386s.
+
+Epoch [3/500], Step [35/6000], Loss: 197.9297.
+Time Used: 78.805s, Estimated Time Remaining: 11538.726s.
+
+Epoch [4/500], Step [40/6000], Loss: 196.5567.
+Time Used: 92.514s, Estimated Time Remaining: 11549.439s.
+
+Epoch [4/500], Step [45/6000], Loss: 197.9094.
+Time Used: 102.191s, Estimated Time Remaining: 11512.792s.
+
+Epoch [5/500], Step [50/6000], Loss: 198.2658.
+Time Used: 115.241s, Estimated Time Remaining: 11712.078s.
+
+Epoch [5/500], Step [55/6000], Loss: 196.2993.
+Time Used: 124.947s, Estimated Time Remaining: 11636.861s.
+
+Epoch [5/500], Step [60/6000], Loss: 202.2978.
+Time Used: 134.641s, Estimated Time Remaining: 11530.102s.
+
+Epoch [6/500], Step [65/6000], Loss: 197.2404.
+Time Used: 148.147s, Estimated Time Remaining: 11519.821s.
+
+Epoch [6/500], Step [70/6000], Loss: 197.3902.
+Time Used: 157.966s, Estimated Time Remaining: 11565.845s.
+
+Epoch [7/500], Step [75/6000], Loss: 196.7582.
+Time Used: 171.454s, Estimated Time Remaining: 11534.927s.
+
+Epoch [7/500], Step [80/6000], Loss: 194.4751.
+Time Used: 181.121s, Estimated Time Remaining: 11465.595s.
+
+Epoch [1/500], Step [5/6000], Loss: 197.6618.
+Time Used: 13.465s, Estimated Time Remaining: 13198.546s.
+
+Epoch [1/500], Step [10/6000], Loss: 197.6992.
+Time Used: 23.244s, Estimated Time Remaining: 12349.005s.
+
+Epoch [2/500], Step [15/6000], Loss: 197.1675.
+Time Used: 36.778s, Estimated Time Remaining: 12123.793s.
+
+Epoch [2/500], Step [20/6000], Loss: 196.7892.
+Time Used: 46.626s, Estimated Time Remaining: 12013.054s.
+
+Epoch [3/500], Step [25/6000], Loss: 195.4162.
+Time Used: 60.614s, Estimated Time Remaining: 12117.017s.
+
+Epoch [3/500], Step [30/6000], Loss: 193.8576.
+Time Used: 70.293s, Estimated Time Remaining: 11824.836s.
+
+Epoch [3/500], Step [35/6000], Loss: 196.9293.
+Time Used: 79.969s, Estimated Time Remaining: 11723.514s.
+
+Epoch [4/500], Step [40/6000], Loss: 200.4731.
+Time Used: 94.092s, Estimated Time Remaining: 11769.318s.
+
+Epoch [4/500], Step [45/6000], Loss: 197.6377.
+Time Used: 103.812s, Estimated Time Remaining: 11581.688s.
+
+Epoch [5/500], Step [50/6000], Loss: 194.8060.
+Time Used: 117.260s, Estimated Time Remaining: 11578.326s.
+
+Epoch [5/500], Step [55/6000], Loss: 194.7839.
+Time Used: 126.952s, Estimated Time Remaining: 11537.359s.
+
+Epoch [5/500], Step [60/6000], Loss: 196.1726.
+Time Used: 136.658s, Estimated Time Remaining: 11530.495s.
+
+Epoch [6/500], Step [65/6000], Loss: 197.2060.
+Time Used: 150.189s, Estimated Time Remaining: 11513.721s.
+
+Epoch [6/500], Step [70/6000], Loss: 195.2054.
+Time Used: 159.902s, Estimated Time Remaining: 11505.611s.
+
+Epoch [7/500], Step [75/6000], Loss: 195.9529.
+Time Used: 173.401s, Estimated Time Remaining: 11511.605s.
+
+Epoch [7/500], Step [80/6000], Loss: 200.3482.
+Time Used: 183.084s, Estimated Time Remaining: 11469.588s.
+
+Epoch [8/500], Step [85/6000], Loss: 194.5841.
+Time Used: 196.674s, Estimated Time Remaining: 11456.543s.
+
+Epoch [8/500], Step [90/6000], Loss: 195.4540.
+Time Used: 206.342s, Estimated Time Remaining: 11452.478s.
+
+Epoch [8/500], Step [95/6000], Loss: 201.1103.
+Time Used: 216.021s, Estimated Time Remaining: 11435.184s.
+
+Epoch [9/500], Step [100/6000], Loss: 196.6841.
+Time Used: 229.664s, Estimated Time Remaining: 11417.665s.
+
+Epoch [9/500], Step [105/6000], Loss: 193.0271.
+Time Used: 239.500s, Estimated Time Remaining: 11626.148s.
+
+Epoch [10/500], Step [110/6000], Loss: 195.9901.
+Time Used: 252.867s, Estimated Time Remaining: 11542.529s.
+
+Epoch [10/500], Step [115/6000], Loss: 196.0093.
+Time Used: 262.958s, Estimated Time Remaining: 11562.151s.
+
+Epoch [10/500], Step [120/6000], Loss: 196.5563.
+Time Used: 272.826s, Estimated Time Remaining: 11627.792s.
+
+Epoch [11/500], Step [125/6000], Loss: 198.6689.
+Time Used: 286.207s, Estimated Time Remaining: 11511.410s.
+
+Epoch [11/500], Step [130/6000], Loss: 197.8665.
+Time Used: 295.895s, Estimated Time Remaining: 11457.974s.
+
+Epoch [12/500], Step [135/6000], Loss: 191.8741.
+Time Used: 309.341s, Estimated Time Remaining: 11429.581s.
+
+Epoch [12/500], Step [140/6000], Loss: 198.0565.
+Time Used: 319.213s, Estimated Time Remaining: 11542.761s.
+
+Epoch [13/500], Step [145/6000], Loss: 195.9023.
+Time Used: 332.703s, Estimated Time Remaining: 11442.327s.
+
+Epoch [13/500], Step [150/6000], Loss: 204.5045.
+Time Used: 342.415s, Estimated Time Remaining: 11404.301s.
+
+Epoch [13/500], Step [155/6000], Loss: 189.7349.
+Time Used: 352.126s, Estimated Time Remaining: 11352.194s.
+
+Epoch [14/500], Step [160/6000], Loss: 184.2993.
+Time Used: 365.647s, Estimated Time Remaining: 11336.486s.
+
+Epoch [14/500], Step [165/6000], Loss: 195.5372.
+Time Used: 375.508s, Estimated Time Remaining: 11392.664s.
+
+Epoch [15/500], Step [170/6000], Loss: 192.2622.
+Time Used: 388.857s, Estimated Time Remaining: 11354.817s.
+
+Epoch [15/500], Step [175/6000], Loss: 182.3583.
+Time Used: 398.999s, Estimated Time Remaining: 11356.012s.
+
+Epoch [15/500], Step [180/6000], Loss: 181.4955.
+Time Used: 408.755s, Estimated Time Remaining: 11342.445s.
+
+Epoch [16/500], Step [185/6000], Loss: 191.1615.
+Time Used: 422.201s, Estimated Time Remaining: 11316.076s.
+
+Epoch [16/500], Step [190/6000], Loss: 184.1911.
+Time Used: 431.944s, Estimated Time Remaining: 11311.032s.
+
+Epoch [17/500], Step [195/6000], Loss: 192.0016.
+Time Used: 445.188s, Estimated Time Remaining: 11260.073s.
+
+Epoch [17/500], Step [200/6000], Loss: 196.4541.
+Time Used: 454.858s, Estimated Time Remaining: 11248.375s.
+
+Epoch [18/500], Step [205/6000], Loss: 193.5406.
+Time Used: 468.377s, Estimated Time Remaining: 11217.182s.
+
+Epoch [18/500], Step [210/6000], Loss: 188.2892.
+Time Used: 478.050s, Estimated Time Remaining: 11222.629s.
+
+Epoch [18/500], Step [215/6000], Loss: 185.8912.
+Time Used: 487.753s, Estimated Time Remaining: 11212.661s.
+
+Epoch [19/500], Step [220/6000], Loss: 181.4483.
+Time Used: 501.311s, Estimated Time Remaining: 11428.522s.
+
+Epoch [19/500], Step [225/6000], Loss: 190.9501.
+Time Used: 510.987s, Estimated Time Remaining: 11335.229s.
+
+Epoch [20/500], Step [230/6000], Loss: 193.7666.
+Time Used: 523.963s, Estimated Time Remaining: 11372.345s.
+
+Epoch [20/500], Step [235/6000], Loss: 185.1716.
+Time Used: 533.712s, Estimated Time Remaining: 11187.083s.
+
+Epoch [20/500], Step [240/6000], Loss: 183.7699.
+Time Used: 543.577s, Estimated Time Remaining: 11262.356s.
+
+Epoch [21/500], Step [245/6000], Loss: 169.1586.
+Time Used: 557.671s, Estimated Time Remaining: 11460.794s.
+
+Epoch [21/500], Step [250/6000], Loss: 188.8211.
+Time Used: 567.396s, Estimated Time Remaining: 11280.841s.
+
+Epoch [22/500], Step [255/6000], Loss: 193.5181.
+Time Used: 580.715s, Estimated Time Remaining: 11212.949s.
+
+Epoch [22/500], Step [260/6000], Loss: 191.7547.
+Time Used: 590.412s, Estimated Time Remaining: 11168.134s.
+
+Epoch [23/500], Step [265/6000], Loss: 188.9664.
+Time Used: 604.063s, Estimated Time Remaining: 11196.234s.
+
+Epoch [23/500], Step [270/6000], Loss: 185.6767.
+Time Used: 613.761s, Estimated Time Remaining: 11125.466s.
+
+Epoch [23/500], Step [275/6000], Loss: 185.8120.
+Time Used: 623.432s, Estimated Time Remaining: 11107.109s.
+
+Epoch [24/500], Step [280/6000], Loss: 190.2293.
+Time Used: 636.965s, Estimated Time Remaining: 11166.585s.
+
+Epoch [24/500], Step [285/6000], Loss: 180.5037.
+Time Used: 646.665s, Estimated Time Remaining: 11129.926s.
+
+Epoch [25/500], Step [290/6000], Loss: 204.2635.
+Time Used: 660.102s, Estimated Time Remaining: 11062.154s.
+
+Epoch [25/500], Step [295/6000], Loss: 188.0832.
+Time Used: 669.793s, Estimated Time Remaining: 11052.274s.
+
+Epoch [25/500], Step [300/6000], Loss: 190.3074.
+Time Used: 679.914s, Estimated Time Remaining: 11042.825s.
+
+Epoch [26/500], Step [305/6000], Loss: 182.5303.
+Time Used: 693.283s, Estimated Time Remaining: 11150.610s.
+
+Epoch [26/500], Step [310/6000], Loss: 190.2910.
+Time Used: 702.941s, Estimated Time Remaining: 11006.990s.
+
+Epoch [27/500], Step [315/6000], Loss: 178.1619.
+Time Used: 716.244s, Estimated Time Remaining: 11000.909s.
+
+Epoch [27/500], Step [320/6000], Loss: 173.9933.
+Time Used: 725.914s, Estimated Time Remaining: 10983.872s.
+
+Epoch [28/500], Step [325/6000], Loss: 165.5660.
+Time Used: 738.903s, Estimated Time Remaining: 10976.516s.
+
+Epoch [28/500], Step [330/6000], Loss: 191.1430.
+Time Used: 748.603s, Estimated Time Remaining: 11092.473s.
+
+Epoch [28/500], Step [335/6000], Loss: 191.0321.
+Time Used: 758.283s, Estimated Time Remaining: 11024.361s.
+
+Epoch [29/500], Step [340/6000], Loss: 272.1827.
+Time Used: 771.327s, Estimated Time Remaining: 11158.399s.
+
+Epoch [29/500], Step [345/6000], Loss: 191.6955.
+Time Used: 780.998s, Estimated Time Remaining: 11018.677s.
+
+Epoch [30/500], Step [350/6000], Loss: 176.2506.
+Time Used: 794.352s, Estimated Time Remaining: 10952.419s.
+
+Epoch [30/500], Step [355/6000], Loss: 191.0529.
+Time Used: 804.045s, Estimated Time Remaining: 10925.792s.
+
+Epoch [30/500], Step [360/6000], Loss: 191.8027.
+Time Used: 813.750s, Estimated Time Remaining: 10914.916s.
+
+Epoch [31/500], Step [365/6000], Loss: 194.9550.
+Time Used: 827.131s, Estimated Time Remaining: 10903.425s.
+
+Epoch [31/500], Step [370/6000], Loss: 268.5930.
+Time Used: 836.812s, Estimated Time Remaining: 10883.985s.
+
+Epoch [32/500], Step [375/6000], Loss: 171.6857.
+Time Used: 849.673s, Estimated Time Remaining: 10978.480s.
+
+Epoch [32/500], Step [380/6000], Loss: 181.3777.
+Time Used: 859.322s, Estimated Time Remaining: 10941.352s.
+
+Epoch [33/500], Step [385/6000], Loss: 190.2214.
+Time Used: 872.168s, Estimated Time Remaining: 10877.183s.
+
+Epoch [33/500], Step [390/6000], Loss: 198.5517.
+Time Used: 881.873s, Estimated Time Remaining: 11005.769s.
+
+Epoch [33/500], Step [395/6000], Loss: 175.7236.
+Time Used: 891.725s, Estimated Time Remaining: 11010.702s.
+
+Epoch [34/500], Step [400/6000], Loss: 190.3691.
+Time Used: 905.022s, Estimated Time Remaining: 10957.132s.
+
+Epoch [34/500], Step [405/6000], Loss: 192.1546.
+Time Used: 914.704s, Estimated Time Remaining: 10851.097s.
+
+Epoch [35/500], Step [410/6000], Loss: 191.4347.
+Time Used: 928.096s, Estimated Time Remaining: 10849.517s.
+
+Epoch [35/500], Step [415/6000], Loss: 223.1426.
+Time Used: 937.773s, Estimated Time Remaining: 10820.161s.
+
+Epoch [35/500], Step [420/6000], Loss: 177.4879.
+Time Used: 947.457s, Estimated Time Remaining: 10808.765s.
+
+Epoch [36/500], Step [425/6000], Loss: 187.9819.
+Time Used: 960.806s, Estimated Time Remaining: 10771.619s.
+
+Epoch [36/500], Step [430/6000], Loss: 197.2221.
+Time Used: 970.493s, Estimated Time Remaining: 10759.424s.
+
+Epoch [37/500], Step [435/6000], Loss: 203.4676.
+Time Used: 983.877s, Estimated Time Remaining: 10760.475s.
+
+Epoch [37/500], Step [440/6000], Loss: 194.6273.
+Time Used: 993.514s, Estimated Time Remaining: 10745.834s.
+
+Epoch [38/500], Step [445/6000], Loss: 183.6401.
+Time Used: 1006.826s, Estimated Time Remaining: 10740.423s.
+
+Epoch [38/500], Step [450/6000], Loss: 180.5057.
+Time Used: 1016.516s, Estimated Time Remaining: 10735.148s.
+
+Epoch [38/500], Step [455/6000], Loss: 178.0605.
+Time Used: 1026.228s, Estimated Time Remaining: 10730.254s.
+
+Epoch [39/500], Step [460/6000], Loss: 188.9482.
+Time Used: 1039.539s, Estimated Time Remaining: 10738.066s.
+
+Epoch [39/500], Step [465/6000], Loss: 183.0002.
+Time Used: 1049.213s, Estimated Time Remaining: 10720.007s.
+
+Epoch [40/500], Step [470/6000], Loss: 188.7635.
+Time Used: 1062.551s, Estimated Time Remaining: 10715.347s.
+
+Epoch [40/500], Step [475/6000], Loss: 181.9780.
+Time Used: 1072.263s, Estimated Time Remaining: 10707.397s.
+
+Epoch [40/500], Step [480/6000], Loss: 183.9395.
+Time Used: 1081.946s, Estimated Time Remaining: 10650.107s.
+
+Epoch [41/500], Step [485/6000], Loss: 243.7639.
+Time Used: 1095.295s, Estimated Time Remaining: 10666.303s.
+
+Epoch [41/500], Step [490/6000], Loss: 180.8916.
+Time Used: 1104.988s, Estimated Time Remaining: 10664.634s.
+
+Epoch [42/500], Step [495/6000], Loss: 180.4457.
+Time Used: 1118.731s, Estimated Time Remaining: 10792.025s.
+
+Epoch [42/500], Step [500/6000], Loss: 172.5192.
+Time Used: 1128.442s, Estimated Time Remaining: 10670.147s.
+
+Epoch [43/500], Step [505/6000], Loss: 181.0358.
+Time Used: 1142.223s, Estimated Time Remaining: 10667.797s.
+
+Epoch [43/500], Step [510/6000], Loss: 186.0848.
+Time Used: 1151.931s, Estimated Time Remaining: 10823.239s.
+
+Epoch [43/500], Step [515/6000], Loss: 172.2764.
+Time Used: 1161.652s, Estimated Time Remaining: 10770.027s.
+
+Epoch [44/500], Step [520/6000], Loss: 182.1918.
+Time Used: 1174.984s, Estimated Time Remaining: 10696.644s.
+
+Epoch [44/500], Step [525/6000], Loss: 177.6584.
+Time Used: 1184.872s, Estimated Time Remaining: 10743.067s.
+
+Epoch [45/500], Step [530/6000], Loss: 176.8353.
+Time Used: 1198.257s, Estimated Time Remaining: 10701.985s.
+
+Epoch [45/500], Step [535/6000], Loss: 173.9325.
+Time Used: 1207.994s, Estimated Time Remaining: 10620.278s.
+
+Epoch [45/500], Step [540/6000], Loss: 189.3949.
+Time Used: 1217.689s, Estimated Time Remaining: 10629.658s.
+
+Epoch [46/500], Step [545/6000], Loss: 194.6242.
+Time Used: 1230.997s, Estimated Time Remaining: 10594.720s.
+
+Epoch [46/500], Step [550/6000], Loss: 175.8499.
+Time Used: 1240.695s, Estimated Time Remaining: 10570.144s.
+
+Epoch [47/500], Step [555/6000], Loss: 184.8332.
+Time Used: 1254.131s, Estimated Time Remaining: 10924.836s.
+
+Epoch [47/500], Step [560/6000], Loss: 177.2667.
+Time Used: 1263.804s, Estimated Time Remaining: 10673.409s.
+
+Epoch [48/500], Step [565/6000], Loss: 177.5723.
+Time Used: 1277.220s, Estimated Time Remaining: 10615.363s.
+
+Epoch [48/500], Step [570/6000], Loss: 196.7306.
+Time Used: 1286.952s, Estimated Time Remaining: 10610.295s.
+
+Epoch [48/500], Step [575/6000], Loss: 181.9335.
+Time Used: 1296.659s, Estimated Time Remaining: 10535.590s.
+
+Epoch [49/500], Step [580/6000], Loss: 166.6742.
+Time Used: 1309.746s, Estimated Time Remaining: 10670.434s.
+
+Epoch [49/500], Step [585/6000], Loss: 184.4344.
+Time Used: 1319.422s, Estimated Time Remaining: 10651.964s.
+
+Epoch [50/500], Step [590/6000], Loss: 192.1723.
+Time Used: 1332.522s, Estimated Time Remaining: 10610.520s.
+
+Epoch [50/500], Step [595/6000], Loss: 174.8505.
+Time Used: 1342.226s, Estimated Time Remaining: 10490.846s.
+
+Epoch [50/500], Step [600/6000], Loss: 167.6479.
+Time Used: 1351.943s, Estimated Time Remaining: 10472.107s.
+
+Epoch [51/500], Step [605/6000], Loss: 180.6081.
+Time Used: 1365.273s, Estimated Time Remaining: 10450.177s.
+
+Epoch [51/500], Step [610/6000], Loss: 166.6662.
+Time Used: 1374.939s, Estimated Time Remaining: 10432.533s.
+
+Epoch [52/500], Step [615/6000], Loss: 177.3091.
+Time Used: 1388.004s, Estimated Time Remaining: 10499.723s.
+
+Epoch [52/500], Step [620/6000], Loss: 212.0226.
+Time Used: 1397.726s, Estimated Time Remaining: 10462.453s.
+
+Epoch [53/500], Step [625/6000], Loss: 164.3935.
+Time Used: 1411.277s, Estimated Time Remaining: 10430.686s.
+
+Epoch [53/500], Step [630/6000], Loss: 209.7631.
+Time Used: 1420.989s, Estimated Time Remaining: 10450.813s.
+
+Epoch [53/500], Step [635/6000], Loss: 188.0834.
+Time Used: 1430.729s, Estimated Time Remaining: 10431.503s.
+
+Epoch [54/500], Step [640/6000], Loss: 180.6902.
+Time Used: 1444.205s, Estimated Time Remaining: 10496.704s.
+
+Epoch [54/500], Step [645/6000], Loss: 157.6549.
+Time Used: 1453.951s, Estimated Time Remaining: 10461.388s.
+
+Epoch [55/500], Step [650/6000], Loss: 195.0589.
+Time Used: 1466.885s, Estimated Time Remaining: 10889.893s.
+
+Epoch [55/500], Step [655/6000], Loss: 170.0005.
+Time Used: 1476.587s, Estimated Time Remaining: 10539.807s.
+
+Epoch [55/500], Step [660/6000], Loss: 194.9406.
+Time Used: 1486.281s, Estimated Time Remaining: 10452.536s.
+
+Epoch [56/500], Step [665/6000], Loss: 185.7188.
+Time Used: 1499.153s, Estimated Time Remaining: 10480.318s.
+
+Epoch [56/500], Step [670/6000], Loss: 178.8401.
+Time Used: 1508.891s, Estimated Time Remaining: 10371.140s.
+
+Epoch [57/500], Step [675/6000], Loss: 188.1785.
+Time Used: 1522.193s, Estimated Time Remaining: 10358.695s.
+
+Epoch [57/500], Step [680/6000], Loss: 182.7627.
+Time Used: 1531.899s, Estimated Time Remaining: 10332.366s.
+
+Epoch [58/500], Step [685/6000], Loss: 178.9086.
+Time Used: 1544.767s, Estimated Time Remaining: 10313.526s.
+
+Epoch [58/500], Step [690/6000], Loss: 181.1482.
+Time Used: 1554.517s, Estimated Time Remaining: 10293.930s.
+
+Epoch [58/500], Step [695/6000], Loss: 181.7677.
+Time Used: 1564.150s, Estimated Time Remaining: 10252.714s.
+
+Epoch [59/500], Step [700/6000], Loss: 173.4153.
+Time Used: 1577.652s, Estimated Time Remaining: 10317.274s.
+
+Epoch [59/500], Step [705/6000], Loss: 174.7299.
+Time Used: 1587.350s, Estimated Time Remaining: 10292.874s.
+
+Epoch [60/500], Step [710/6000], Loss: 187.7825.
+Time Used: 1600.429s, Estimated Time Remaining: 10253.184s.
+
+Epoch [60/500], Step [715/6000], Loss: 173.0713.
+Time Used: 1610.196s, Estimated Time Remaining: 10237.738s.
+
+Epoch [60/500], Step [720/6000], Loss: 163.8343.
+Time Used: 1619.960s, Estimated Time Remaining: 10262.674s.
+
+Epoch [61/500], Step [725/6000], Loss: 177.2234.
+Time Used: 1633.347s, Estimated Time Remaining: 10220.127s.
+
+Epoch [61/500], Step [730/6000], Loss: 207.2246.
+Time Used: 1643.025s, Estimated Time Remaining: 10201.024s.
+
+Epoch [62/500], Step [735/6000], Loss: 164.0425.
+Time Used: 1656.523s, Estimated Time Remaining: 10272.789s.
+
+Epoch [62/500], Step [740/6000], Loss: 186.6460.
+Time Used: 1666.193s, Estimated Time Remaining: 10230.449s.
+
+Epoch [63/500], Step [745/6000], Loss: 216.2023.
+Time Used: 1679.371s, Estimated Time Remaining: 10212.149s.
+
+Epoch [63/500], Step [750/6000], Loss: 173.6927.
+Time Used: 1689.113s, Estimated Time Remaining: 10273.694s.
+
+Epoch [63/500], Step [755/6000], Loss: 174.9007.
+Time Used: 1699.272s, Estimated Time Remaining: 10235.127s.
+
+Epoch [64/500], Step [760/6000], Loss: 183.1168.
+Time Used: 1712.638s, Estimated Time Remaining: 10331.558s.
+
+Epoch [64/500], Step [765/6000], Loss: 185.4382.
+Time Used: 1722.354s, Estimated Time Remaining: 10193.985s.
+
+Epoch [65/500], Step [770/6000], Loss: 187.5484.
+Time Used: 1735.653s, Estimated Time Remaining: 10168.087s.
+
+Epoch [65/500], Step [775/6000], Loss: 151.5865.
+Time Used: 1745.302s, Estimated Time Remaining: 10123.920s.
+
+Epoch [65/500], Step [780/6000], Loss: 185.8108.
+Time Used: 1755.179s, Estimated Time Remaining: 10163.215s.
+
+Epoch [66/500], Step [785/6000], Loss: 178.5403.
+Time Used: 1768.731s, Estimated Time Remaining: 10318.331s.
+
+Epoch [66/500], Step [790/6000], Loss: 189.6371.
+Time Used: 1778.453s, Estimated Time Remaining: 10214.173s.
+
+Epoch [67/500], Step [795/6000], Loss: 184.3902.
+Time Used: 1792.042s, Estimated Time Remaining: 10179.746s.
+
+Epoch [67/500], Step [800/6000], Loss: 173.8621.
+Time Used: 1801.639s, Estimated Time Remaining: 10170.929s.
+
+Epoch [68/500], Step [805/6000], Loss: 172.7650.
+Time Used: 1814.930s, Estimated Time Remaining: 10045.149s.
+
+Epoch [68/500], Step [810/6000], Loss: 186.4750.
+Time Used: 1825.063s, Estimated Time Remaining: 10255.937s.
+
+Epoch [68/500], Step [815/6000], Loss: 172.3516.
+Time Used: 1834.871s, Estimated Time Remaining: 10213.272s.
+
+Epoch [69/500], Step [820/6000], Loss: 165.2048.
+Time Used: 1848.275s, Estimated Time Remaining: 10102.164s.
+
+Epoch [69/500], Step [825/6000], Loss: 168.4916.
+Time Used: 1857.970s, Estimated Time Remaining: 10041.299s.
+
+Epoch [70/500], Step [830/6000], Loss: 194.7856.
+Time Used: 1871.267s, Estimated Time Remaining: 10033.059s.
+
+Epoch [70/500], Step [835/6000], Loss: 178.4063.
+Time Used: 1880.937s, Estimated Time Remaining: 10009.736s.
+
+Epoch [70/500], Step [840/6000], Loss: 162.4473.
+Time Used: 1890.595s, Estimated Time Remaining: 9963.592s.
+
+Epoch [71/500], Step [845/6000], Loss: 170.2048.
+Time Used: 1903.498s, Estimated Time Remaining: 10112.434s.
+
+Epoch [71/500], Step [850/6000], Loss: 158.3884.
+Time Used: 1913.198s, Estimated Time Remaining: 10052.312s.
+
+Epoch [72/500], Step [855/6000], Loss: 182.1703.
+Time Used: 1926.051s, Estimated Time Remaining: 10093.004s.
+
+Epoch [72/500], Step [860/6000], Loss: 174.6166.
+Time Used: 1935.756s, Estimated Time Remaining: 9987.337s.
+
+Epoch [73/500], Step [865/6000], Loss: 171.5663.
+Time Used: 1948.765s, Estimated Time Remaining: 9950.316s.
+
+Epoch [73/500], Step [870/6000], Loss: 176.3309.
+Time Used: 1958.526s, Estimated Time Remaining: 9962.595s.
+
+Epoch [73/500], Step [875/6000], Loss: 172.9408.
+Time Used: 1968.247s, Estimated Time Remaining: 9954.050s.
+
+Epoch [74/500], Step [880/6000], Loss: 183.5593.
+Time Used: 1981.667s, Estimated Time Remaining: 10077.379s.
+
+Epoch [74/500], Step [885/6000], Loss: 174.3345.
+Time Used: 1991.388s, Estimated Time Remaining: 10004.405s.
+
+Epoch [75/500], Step [890/6000], Loss: 213.3706.
+Time Used: 2004.783s, Estimated Time Remaining: 9977.356s.
+
+Epoch [75/500], Step [895/6000], Loss: 176.6761.
+Time Used: 2014.468s, Estimated Time Remaining: 9946.691s.
+
+Epoch [75/500], Step [900/6000], Loss: 156.3309.
+Time Used: 2024.195s, Estimated Time Remaining: 9913.472s.
+
+Epoch [76/500], Step [905/6000], Loss: 181.6341.
+Time Used: 2037.128s, Estimated Time Remaining: 9979.991s.
+
+Epoch [76/500], Step [910/6000], Loss: 166.3436.
+Time Used: 2046.827s, Estimated Time Remaining: 9939.815s.
+
+Epoch [77/500], Step [915/6000], Loss: 166.5133.
+Time Used: 2060.131s, Estimated Time Remaining: 9814.769s.
+
+Epoch [77/500], Step [920/6000], Loss: 163.9418.
+Time Used: 2069.843s, Estimated Time Remaining: 9835.050s.
+
+Epoch [78/500], Step [925/6000], Loss: 181.2392.
+Time Used: 2083.169s, Estimated Time Remaining: 9827.189s.
+
+Epoch [78/500], Step [930/6000], Loss: 159.7671.
+Time Used: 2092.916s, Estimated Time Remaining: 9828.938s.
+
+Epoch [78/500], Step [935/6000], Loss: 169.6806.
+Time Used: 2102.620s, Estimated Time Remaining: 9793.628s.
+
+Epoch [79/500], Step [940/6000], Loss: 195.5949.
+Time Used: 2115.970s, Estimated Time Remaining: 9828.142s.
+
+Epoch [79/500], Step [945/6000], Loss: 174.1287.
+Time Used: 2125.642s, Estimated Time Remaining: 9800.350s.
+
+Epoch [80/500], Step [950/6000], Loss: 178.0036.
+Time Used: 2139.007s, Estimated Time Remaining: 9816.803s.
+
+Epoch [80/500], Step [955/6000], Loss: 162.6996.
+Time Used: 2148.689s, Estimated Time Remaining: 9757.700s.
+
+Epoch [80/500], Step [960/6000], Loss: 161.3723.
+Time Used: 2158.317s, Estimated Time Remaining: 9718.228s.
+
+Epoch [81/500], Step [965/6000], Loss: 182.2663.
+Time Used: 2171.700s, Estimated Time Remaining: 9733.596s.
+
+Epoch [81/500], Step [970/6000], Loss: 167.1507.
+Time Used: 2181.815s, Estimated Time Remaining: 9839.548s.
+
+Epoch [82/500], Step [975/6000], Loss: 180.1582.
+Time Used: 2195.133s, Estimated Time Remaining: 9937.778s.
+
+Epoch [82/500], Step [980/6000], Loss: 165.0953.
+Time Used: 2205.264s, Estimated Time Remaining: 10048.040s.
+
+Epoch [83/500], Step [985/6000], Loss: 170.9662.
+Time Used: 2218.634s, Estimated Time Remaining: 9935.187s.
+
+Epoch [83/500], Step [990/6000], Loss: 172.6901.
+Time Used: 2228.313s, Estimated Time Remaining: 9872.815s.
+
+Epoch [83/500], Step [995/6000], Loss: 179.0975.
+Time Used: 2238.414s, Estimated Time Remaining: 10055.538s.
+
+Epoch [84/500], Step [1000/6000], Loss: 174.2527.
+Time Used: 2251.744s, Estimated Time Remaining: 9889.146s.
+
+Epoch [84/500], Step [1005/6000], Loss: 190.6489.
+Time Used: 2261.666s, Estimated Time Remaining: 9879.696s.
+
+Epoch [85/500], Step [1010/6000], Loss: 168.8694.
+Time Used: 2274.843s, Estimated Time Remaining: 9753.558s.
+
+Epoch [85/500], Step [1015/6000], Loss: 166.3526.
+Time Used: 2284.567s, Estimated Time Remaining: 9660.294s.
+
+Epoch [85/500], Step [1020/6000], Loss: 169.5715.
+Time Used: 2294.266s, Estimated Time Remaining: 9650.858s.
+
+Epoch [86/500], Step [1025/6000], Loss: 159.7516.
+Time Used: 2307.626s, Estimated Time Remaining: 9649.147s.
+
+Epoch [86/500], Step [1030/6000], Loss: 156.1322.
+Time Used: 2317.543s, Estimated Time Remaining: 9631.600s.
+
+Epoch [87/500], Step [1035/6000], Loss: 189.6667.
+Time Used: 2330.443s, Estimated Time Remaining: 9768.052s.
+
+Epoch [87/500], Step [1040/6000], Loss: 185.5209.
+Time Used: 2340.110s, Estimated Time Remaining: 9691.849s.
+
+Epoch [88/500], Step [1045/6000], Loss: 147.1737.
+Time Used: 2353.233s, Estimated Time Remaining: 9657.979s.
+
+Epoch [88/500], Step [1050/6000], Loss: 192.1632.
+Time Used: 2363.111s, Estimated Time Remaining: 9805.548s.
+
+Epoch [88/500], Step [1055/6000], Loss: 162.3289.
+Time Used: 2372.809s, Estimated Time Remaining: 9665.988s.
+
+Epoch [89/500], Step [1060/6000], Loss: 168.6252.
+Time Used: 2386.469s, Estimated Time Remaining: 9694.755s.
+
+Epoch [89/500], Step [1065/6000], Loss: 163.8814.
+Time Used: 2396.094s, Estimated Time Remaining: 9643.527s.
+
+Epoch [90/500], Step [1070/6000], Loss: 169.3897.
+Time Used: 2409.303s, Estimated Time Remaining: 9589.069s.
+
+Epoch [90/500], Step [1075/6000], Loss: 187.0079.
+Time Used: 2418.978s, Estimated Time Remaining: 9537.446s.
+
+Epoch [90/500], Step [1080/6000], Loss: 160.0981.
+Time Used: 2428.689s, Estimated Time Remaining: 9528.865s.
+
+Epoch [91/500], Step [1085/6000], Loss: 170.1087.
+Time Used: 2441.615s, Estimated Time Remaining: 9581.099s.
+
+Epoch [91/500], Step [1090/6000], Loss: 168.5907.
+Time Used: 2451.326s, Estimated Time Remaining: 9540.047s.
+
+Epoch [92/500], Step [1095/6000], Loss: 174.9994.
+Time Used: 2464.701s, Estimated Time Remaining: 9531.705s.
+
+Epoch [92/500], Step [1100/6000], Loss: 168.8616.
+Time Used: 2474.486s, Estimated Time Remaining: 9524.948s.
+
+Epoch [93/500], Step [1105/6000], Loss: 171.3335.
+Time Used: 2487.860s, Estimated Time Remaining: 9490.269s.
+
+Epoch [93/500], Step [1110/6000], Loss: 178.0872.
+Time Used: 2497.972s, Estimated Time Remaining: 9488.204s.
+
+Epoch [93/500], Step [1115/6000], Loss: 175.5208.
+Time Used: 2507.967s, Estimated Time Remaining: 9769.083s.
+
+Epoch [94/500], Step [1120/6000], Loss: 151.1240.
+Time Used: 2521.575s, Estimated Time Remaining: 9741.037s.
+
+Epoch [94/500], Step [1125/6000], Loss: 174.0194.
+Time Used: 2531.262s, Estimated Time Remaining: 9557.583s.
+
+Epoch [95/500], Step [1130/6000], Loss: 192.4154.
+Time Used: 2544.552s, Estimated Time Remaining: 9480.052s.
+
+Epoch [95/500], Step [1135/6000], Loss: 165.6438.
+Time Used: 2554.263s, Estimated Time Remaining: 9458.013s.
+
+Epoch [95/500], Step [1140/6000], Loss: 165.9298.
+Time Used: 2563.955s, Estimated Time Remaining: 9434.911s.
+
+Epoch [96/500], Step [1145/6000], Loss: 163.6360.
+Time Used: 2577.319s, Estimated Time Remaining: 9380.006s.
+
+Epoch [96/500], Step [1150/6000], Loss: 173.0925.
+Time Used: 2587.048s, Estimated Time Remaining: 9498.045s.
+
+Epoch [97/500], Step [1155/6000], Loss: 177.9307.
+Time Used: 2600.397s, Estimated Time Remaining: 9464.004s.
+
+Epoch [97/500], Step [1160/6000], Loss: 168.6979.
+Time Used: 2610.045s, Estimated Time Remaining: 9422.364s.
+
+Epoch [98/500], Step [1165/6000], Loss: 182.2078.
+Time Used: 2623.384s, Estimated Time Remaining: 9371.317s.
+
+Epoch [98/500], Step [1170/6000], Loss: 190.4033.
+Time Used: 2633.032s, Estimated Time Remaining: 9341.182s.
+
+Epoch [98/500], Step [1175/6000], Loss: 151.5641.
+Time Used: 2642.719s, Estimated Time Remaining: 9330.226s.
+
+Epoch [99/500], Step [1180/6000], Loss: 174.9949.
+Time Used: 2655.791s, Estimated Time Remaining: 9335.161s.
+
+Epoch [99/500], Step [1185/6000], Loss: 183.5308.
+Time Used: 2665.463s, Estimated Time Remaining: 9293.375s.
+
+Epoch [100/500], Step [1190/6000], Loss: 183.0981.
+Time Used: 2678.688s, Estimated Time Remaining: 9300.103s.
+
+Epoch [100/500], Step [1195/6000], Loss: 159.8612.
+Time Used: 2688.498s, Estimated Time Remaining: 9326.197s.
+
+Epoch [100/500], Step [1200/6000], Loss: 179.0607.
+Time Used: 2698.184s, Estimated Time Remaining: 9295.215s.
+
+Epoch [101/500], Step [1205/6000], Loss: 163.1604.
+Time Used: 2711.915s, Estimated Time Remaining: 9568.005s.
+
+Epoch [101/500], Step [1210/6000], Loss: 177.8477.
+Time Used: 2721.619s, Estimated Time Remaining: 9442.639s.
+
+Epoch [102/500], Step [1215/6000], Loss: 141.9060.
+Time Used: 2734.853s, Estimated Time Remaining: 9386.296s.
+
+Epoch [102/500], Step [1220/6000], Loss: 192.2577.
+Time Used: 2744.509s, Estimated Time Remaining: 9236.421s.
+
+Epoch [103/500], Step [1225/6000], Loss: 163.8327.
+Time Used: 2757.919s, Estimated Time Remaining: 9331.772s.
+
+Epoch [103/500], Step [1230/6000], Loss: 163.8888.
+Time Used: 2767.602s, Estimated Time Remaining: 9276.345s.
+
+Epoch [103/500], Step [1235/6000], Loss: 185.8587.
+Time Used: 2777.321s, Estimated Time Remaining: 9262.638s.
+
+Epoch [104/500], Step [1240/6000], Loss: 174.3233.
+Time Used: 2790.675s, Estimated Time Remaining: 9218.823s.
+
+Epoch [104/500], Step [1245/6000], Loss: 166.5706.
+Time Used: 2800.344s, Estimated Time Remaining: 9185.618s.
+
+Epoch [105/500], Step [1250/6000], Loss: 165.0823.
+Time Used: 2813.540s, Estimated Time Remaining: 9189.734s.
+
+Epoch [105/500], Step [1255/6000], Loss: 190.9957.
+Time Used: 2823.221s, Estimated Time Remaining: 9171.803s.
+
+Epoch [105/500], Step [1260/6000], Loss: 182.0636.
+Time Used: 2832.856s, Estimated Time Remaining: 9139.203s.
+
+Epoch [106/500], Step [1265/6000], Loss: 151.9203.
+Time Used: 2845.712s, Estimated Time Remaining: 9224.651s.
+
+Epoch [106/500], Step [1270/6000], Loss: 153.9935.
+Time Used: 2855.377s, Estimated Time Remaining: 9180.237s.
+
+Epoch [107/500], Step [1275/6000], Loss: 171.2254.
+Time Used: 2868.663s, Estimated Time Remaining: 9184.663s.
+
+Epoch [107/500], Step [1280/6000], Loss: 163.1628.
+Time Used: 2878.351s, Estimated Time Remaining: 9138.997s.
+
+Epoch [108/500], Step [1285/6000], Loss: 170.6399.
+Time Used: 2891.709s, Estimated Time Remaining: 9127.760s.
+
+Epoch [108/500], Step [1290/6000], Loss: 169.9217.
+Time Used: 2901.446s, Estimated Time Remaining: 9181.268s.
+
+Epoch [108/500], Step [1295/6000], Loss: 171.5576.
+Time Used: 2911.061s, Estimated Time Remaining: 9080.872s.
+
+Epoch [109/500], Step [1300/6000], Loss: 191.9362.
+Time Used: 2924.346s, Estimated Time Remaining: 9116.139s.
+
+Epoch [109/500], Step [1305/6000], Loss: 179.2014.
+Time Used: 2934.047s, Estimated Time Remaining: 9097.853s.
+
+Epoch [110/500], Step [1310/6000], Loss: 172.7309.
+Time Used: 2947.047s, Estimated Time Remaining: 9090.664s.
+
+Epoch [110/500], Step [1315/6000], Loss: 178.6329.
+Time Used: 2956.787s, Estimated Time Remaining: 9071.973s.
+
+Epoch [110/500], Step [1320/6000], Loss: 166.1949.
+Time Used: 2966.414s, Estimated Time Remaining: 9043.478s.
+
+Epoch [111/500], Step [1325/6000], Loss: 155.3046.
+Time Used: 2979.476s, Estimated Time Remaining: 9042.027s.
+
+Epoch [111/500], Step [1330/6000], Loss: 172.8952.
+Time Used: 2989.159s, Estimated Time Remaining: 9028.980s.
+
+Epoch [112/500], Step [1335/6000], Loss: 155.4443.
+Time Used: 3002.105s, Estimated Time Remaining: 9340.244s.
+
+Epoch [112/500], Step [1340/6000], Loss: 166.8676.
+Time Used: 3011.773s, Estimated Time Remaining: 9149.239s.
+
+Epoch [113/500], Step [1345/6000], Loss: 176.9873.
+Time Used: 3024.842s, Estimated Time Remaining: 9083.478s.
+
+Epoch [113/500], Step [1350/6000], Loss: 163.5255.
+Time Used: 3034.544s, Estimated Time Remaining: 9052.740s.
+
+Epoch [113/500], Step [1355/6000], Loss: 176.7254.
+Time Used: 3044.235s, Estimated Time Remaining: 9002.724s.
+
+Epoch [114/500], Step [1360/6000], Loss: 174.4924.
+Time Used: 3057.780s, Estimated Time Remaining: 8976.467s.
+
+Epoch [114/500], Step [1365/6000], Loss: 147.2245.
+Time Used: 3067.493s, Estimated Time Remaining: 9071.709s.
+
+Epoch [115/500], Step [1370/6000], Loss: 167.5664.
+Time Used: 3080.801s, Estimated Time Remaining: 9032.774s.
+
+Epoch [115/500], Step [1375/6000], Loss: 194.6777.
+Time Used: 3090.474s, Estimated Time Remaining: 8955.165s.
+
+Epoch [115/500], Step [1380/6000], Loss: 157.0359.
+Time Used: 3100.135s, Estimated Time Remaining: 8936.386s.
+
+Epoch [116/500], Step [1385/6000], Loss: 156.7126.
+Time Used: 3113.630s, Estimated Time Remaining: 8967.385s.
+
+Epoch [116/500], Step [1390/6000], Loss: 173.1406.
+Time Used: 3123.246s, Estimated Time Remaining: 8864.379s.
+
+Epoch [117/500], Step [1395/6000], Loss: 172.6162.
+Time Used: 3136.762s, Estimated Time Remaining: 9020.314s.
+
+Epoch [117/500], Step [1400/6000], Loss: 175.6761.
+Time Used: 3146.437s, Estimated Time Remaining: 8964.393s.
+
+Epoch [118/500], Step [1405/6000], Loss: 150.7874.
+Time Used: 3159.656s, Estimated Time Remaining: 8927.067s.
+
+Epoch [118/500], Step [1410/6000], Loss: 155.3473.
+Time Used: 3169.503s, Estimated Time Remaining: 8883.170s.
+
+Epoch [118/500], Step [1415/6000], Loss: 174.0834.
+Time Used: 3179.200s, Estimated Time Remaining: 8866.014s.
+
+Epoch [119/500], Step [1420/6000], Loss: 173.1713.
+Time Used: 3192.491s, Estimated Time Remaining: 8938.987s.
+
+Epoch [119/500], Step [1425/6000], Loss: 177.2851.
+Time Used: 3202.191s, Estimated Time Remaining: 8902.633s.
+
+Epoch [120/500], Step [1430/6000], Loss: 172.1575.
+Time Used: 3215.443s, Estimated Time Remaining: 8872.568s.
+
+Epoch [120/500], Step [1435/6000], Loss: 159.2376.
+Time Used: 3225.150s, Estimated Time Remaining: 8848.744s.
+
+Epoch [120/500], Step [1440/6000], Loss: 169.5048.
+Time Used: 3234.811s, Estimated Time Remaining: 8823.403s.
+
+Epoch [121/500], Step [1445/6000], Loss: 169.3771.
+Time Used: 3248.163s, Estimated Time Remaining: 8811.962s.
+
+Epoch [121/500], Step [1450/6000], Loss: 169.2077.
+Time Used: 3257.838s, Estimated Time Remaining: 8794.656s.
+
+Epoch [122/500], Step [1455/6000], Loss: 174.3323.
+Time Used: 3271.132s, Estimated Time Remaining: 8778.235s.
+
+Epoch [122/500], Step [1460/6000], Loss: 159.0959.
+Time Used: 3280.805s, Estimated Time Remaining: 8770.399s.
+
+Epoch [123/500], Step [1465/6000], Loss: 163.3962.
+Time Used: 3294.149s, Estimated Time Remaining: 8767.809s.
+
+Epoch [123/500], Step [1470/6000], Loss: 180.7285.
+Time Used: 3303.787s, Estimated Time Remaining: 8749.414s.
+
+Epoch [123/500], Step [1475/6000], Loss: 167.9600.
+Time Used: 3313.494s, Estimated Time Remaining: 8751.855s.
+
+Epoch [124/500], Step [1480/6000], Loss: 162.3299.
+Time Used: 3327.228s, Estimated Time Remaining: 8866.525s.
+
+Epoch [124/500], Step [1485/6000], Loss: 166.2882.
+Time Used: 3336.897s, Estimated Time Remaining: 8793.161s.
+
+Epoch [125/500], Step [1490/6000], Loss: 172.0767.
+Time Used: 3350.160s, Estimated Time Remaining: 8735.559s.
+
+Epoch [125/500], Step [1495/6000], Loss: 172.2464.
+Time Used: 3359.830s, Estimated Time Remaining: 8717.843s.
+
+Epoch [125/500], Step [1500/6000], Loss: 163.3472.
+Time Used: 3369.413s, Estimated Time Remaining: 8686.522s.
+
+Epoch [126/500], Step [1505/6000], Loss: 167.8280.
+Time Used: 3382.577s, Estimated Time Remaining: 8703.878s.
+
+Epoch [126/500], Step [1510/6000], Loss: 177.1709.
+Time Used: 3392.247s, Estimated Time Remaining: 8682.688s.
+
+Epoch [127/500], Step [1515/6000], Loss: 160.1259.
+Time Used: 3405.529s, Estimated Time Remaining: 8688.036s.
+
+Epoch [127/500], Step [1520/6000], Loss: 163.3430.
+Time Used: 3415.405s, Estimated Time Remaining: 8720.961s.
+
+Epoch [128/500], Step [1525/6000], Loss: 192.0872.
+Time Used: 3428.290s, Estimated Time Remaining: 8675.870s.
+
+Epoch [128/500], Step [1530/6000], Loss: 145.4289.
+Time Used: 3438.023s, Estimated Time Remaining: 8801.389s.
+
+Epoch [128/500], Step [1535/6000], Loss: 187.6916.
+Time Used: 3447.893s, Estimated Time Remaining: 8740.118s.
+
+Epoch [129/500], Step [1540/6000], Loss: 167.5855.
+Time Used: 3461.237s, Estimated Time Remaining: 8769.822s.
+
+Epoch [129/500], Step [1545/6000], Loss: 148.5082.
+Time Used: 3470.956s, Estimated Time Remaining: 8651.423s.
+
+Epoch [130/500], Step [1550/6000], Loss: 173.7725.
+Time Used: 3484.540s, Estimated Time Remaining: 8838.441s.
+
+Epoch [130/500], Step [1555/6000], Loss: 165.3383.
+Time Used: 3494.221s, Estimated Time Remaining: 8745.313s.
+
+Epoch [130/500], Step [1560/6000], Loss: 176.7351.
+Time Used: 3503.909s, Estimated Time Remaining: 8697.315s.
+
+Epoch [131/500], Step [1565/6000], Loss: 159.2497.
+Time Used: 3517.270s, Estimated Time Remaining: 8615.364s.
+
+Epoch [131/500], Step [1570/6000], Loss: 165.9063.
+Time Used: 3526.983s, Estimated Time Remaining: 8604.804s.
+
+Epoch [132/500], Step [1575/6000], Loss: 160.3410.
+Time Used: 3539.821s, Estimated Time Remaining: 8650.222s.
+
+Epoch [132/500], Step [1580/6000], Loss: 202.1096.
+Time Used: 3549.455s, Estimated Time Remaining: 8523.349s.
+
+Epoch [133/500], Step [1585/6000], Loss: 174.8995.
+Time Used: 3562.549s, Estimated Time Remaining: 8518.498s.
+
+Epoch [133/500], Step [1590/6000], Loss: 167.9022.
+Time Used: 3572.274s, Estimated Time Remaining: 8522.081s.
+
+Epoch [133/500], Step [1595/6000], Loss: 153.1724.
+Time Used: 3582.427s, Estimated Time Remaining: 8633.765s.
+
+Epoch [134/500], Step [1600/6000], Loss: 164.1794.
+Time Used: 3595.558s, Estimated Time Remaining: 8508.791s.
+
+Epoch [134/500], Step [1605/6000], Loss: 164.2603.
+Time Used: 3605.199s, Estimated Time Remaining: 8463.303s.
+
+Epoch [135/500], Step [1610/6000], Loss: 178.8334.
+Time Used: 3618.064s, Estimated Time Remaining: 8567.238s.
+
+Epoch [135/500], Step [1615/6000], Loss: 148.4667.
+Time Used: 3627.784s, Estimated Time Remaining: 8533.972s.
+
+Epoch [135/500], Step [1620/6000], Loss: 154.7263.
+Time Used: 3637.459s, Estimated Time Remaining: 8460.397s.
+
+Epoch [136/500], Step [1625/6000], Loss: 167.2426.
+Time Used: 3650.926s, Estimated Time Remaining: 8527.063s.
+
+Epoch [136/500], Step [1630/6000], Loss: 157.8868.
+Time Used: 3660.602s, Estimated Time Remaining: 8489.921s.
+
+Epoch [137/500], Step [1635/6000], Loss: 169.5425.
+Time Used: 3673.475s, Estimated Time Remaining: 8531.348s.
+
+Epoch [137/500], Step [1640/6000], Loss: 170.3117.
+Time Used: 3683.234s, Estimated Time Remaining: 8473.352s.
+
+Epoch [138/500], Step [1645/6000], Loss: 167.4244.
+Time Used: 3696.102s, Estimated Time Remaining: 8448.700s.
+
+Epoch [138/500], Step [1650/6000], Loss: 197.6905.
+Time Used: 3705.864s, Estimated Time Remaining: 8507.411s.
+
+Epoch [138/500], Step [1655/6000], Loss: 163.7869.
+Time Used: 3715.612s, Estimated Time Remaining: 8488.528s.
+
+Epoch [139/500], Step [1660/6000], Loss: 161.9077.
+Time Used: 3728.678s, Estimated Time Remaining: 8445.089s.
+
+Epoch [139/500], Step [1665/6000], Loss: 156.8972.
+Time Used: 3738.547s, Estimated Time Remaining: 8473.110s.
+
+Epoch [140/500], Step [1670/6000], Loss: 156.4442.
+Time Used: 3751.947s, Estimated Time Remaining: 8449.887s.
+
+Epoch [140/500], Step [1675/6000], Loss: 168.7569.
+Time Used: 3761.639s, Estimated Time Remaining: 8392.069s.
+
+Epoch [140/500], Step [1680/6000], Loss: 162.7064.
+Time Used: 3771.326s, Estimated Time Remaining: 8372.340s.
+
+Epoch [141/500], Step [1685/6000], Loss: 181.5227.
+Time Used: 3784.372s, Estimated Time Remaining: 8370.515s.
+
+Epoch [141/500], Step [1690/6000], Loss: 173.0542.
+Time Used: 3794.049s, Estimated Time Remaining: 8349.705s.
+
+Epoch [142/500], Step [1695/6000], Loss: 169.5960.
+Time Used: 3807.833s, Estimated Time Remaining: 9002.891s.
+
+Epoch [142/500], Step [1700/6000], Loss: 167.6664.
+Time Used: 3817.520s, Estimated Time Remaining: 8577.110s.
+
+Epoch [143/500], Step [1705/6000], Loss: 148.6432.
+Time Used: 3830.381s, Estimated Time Remaining: 8471.395s.
+
+Epoch [143/500], Step [1710/6000], Loss: 170.5862.
+Time Used: 3840.151s, Estimated Time Remaining: 8486.873s.
+
+Epoch [143/500], Step [1715/6000], Loss: 171.0727.
+Time Used: 3849.844s, Estimated Time Remaining: 8308.354s.
+
+Epoch [144/500], Step [1720/6000], Loss: 173.7840.
+Time Used: 3863.169s, Estimated Time Remaining: 8312.759s.
+
+Epoch [144/500], Step [1725/6000], Loss: 152.2959.
+Time Used: 3872.833s, Estimated Time Remaining: 8297.013s.
+
+Epoch [145/500], Step [1730/6000], Loss: 152.8916.
+Time Used: 3885.957s, Estimated Time Remaining: 8275.943s.
+
+Epoch [145/500], Step [1735/6000], Loss: 159.2516.
+Time Used: 3895.707s, Estimated Time Remaining: 8275.854s.
+
+Epoch [145/500], Step [1740/6000], Loss: 160.6175.
+Time Used: 3905.359s, Estimated Time Remaining: 8254.902s.
+
+Epoch [146/500], Step [1745/6000], Loss: 154.9275.
+Time Used: 3918.619s, Estimated Time Remaining: 8249.235s.
+
+Epoch [146/500], Step [1750/6000], Loss: 177.3944.
+Time Used: 3928.440s, Estimated Time Remaining: 8232.155s.
+
+Epoch [147/500], Step [1755/6000], Loss: 168.5745.
+Time Used: 3941.592s, Estimated Time Remaining: 8327.919s.
+
+Epoch [147/500], Step [1760/6000], Loss: 170.4496.
+Time Used: 3951.305s, Estimated Time Remaining: 8267.457s.
+
+Epoch [148/500], Step [1765/6000], Loss: 156.0030.
+Time Used: 3964.620s, Estimated Time Remaining: 8240.675s.
+
+Epoch [148/500], Step [1770/6000], Loss: 155.5350.
+Time Used: 3974.293s, Estimated Time Remaining: 8200.606s.
+
+Epoch [148/500], Step [1775/6000], Loss: 161.8413.
+Time Used: 3983.985s, Estimated Time Remaining: 8171.258s.
+
+Epoch [149/500], Step [1780/6000], Loss: 165.0739.
+Time Used: 3997.213s, Estimated Time Remaining: 8163.015s.
+
+Epoch [149/500], Step [1785/6000], Loss: 156.1635.
+Time Used: 4006.901s, Estimated Time Remaining: 8150.111s.
+
+Epoch [150/500], Step [1790/6000], Loss: 181.8348.
+Time Used: 4020.228s, Estimated Time Remaining: 8168.490s.
+
+Epoch [150/500], Step [1795/6000], Loss: 158.8324.
+Time Used: 4030.074s, Estimated Time Remaining: 8215.504s.
+
+Epoch [150/500], Step [1800/6000], Loss: 168.4965.
+Time Used: 4039.757s, Estimated Time Remaining: 8185.992s.
+
+Epoch [151/500], Step [1805/6000], Loss: 150.1215.
+Time Used: 4053.031s, Estimated Time Remaining: 8156.773s.
+
+Epoch [151/500], Step [1810/6000], Loss: 154.1628.
+Time Used: 4062.717s, Estimated Time Remaining: 8098.957s.
+
+Epoch [152/500], Step [1815/6000], Loss: 162.5981.
+Time Used: 4075.558s, Estimated Time Remaining: 8191.060s.
+
+Epoch [152/500], Step [1820/6000], Loss: 168.3936.
+Time Used: 4085.227s, Estimated Time Remaining: 8141.992s.
+
+Epoch [153/500], Step [1825/6000], Loss: 173.2294.
+Time Used: 4098.443s, Estimated Time Remaining: 8108.207s.
+
+Epoch [153/500], Step [1830/6000], Loss: 153.6444.
+Time Used: 4108.099s, Estimated Time Remaining: 8026.820s.
+
+Epoch [153/500], Step [1835/6000], Loss: 166.7854.
+Time Used: 4117.814s, Estimated Time Remaining: 8051.598s.
+
+Epoch [154/500], Step [1840/6000], Loss: 159.3189.
+Time Used: 4131.141s, Estimated Time Remaining: 8054.997s.
+
+Epoch [154/500], Step [1845/6000], Loss: 161.9562.
+Time Used: 4140.842s, Estimated Time Remaining: 8041.464s.
+
+Epoch [155/500], Step [1850/6000], Loss: 168.8095.
+Time Used: 4154.204s, Estimated Time Remaining: 8073.254s.
+
+Epoch [155/500], Step [1855/6000], Loss: 148.2567.
+Time Used: 4164.364s, Estimated Time Remaining: 8215.108s.
+
+Epoch [155/500], Step [1860/6000], Loss: 146.3654.
+Time Used: 4174.068s, Estimated Time Remaining: 8150.810s.
+
+Epoch [156/500], Step [1865/6000], Loss: 160.4080.
+Time Used: 4187.367s, Estimated Time Remaining: 8067.948s.
+
+Epoch [156/500], Step [1870/6000], Loss: 165.8014.
+Time Used: 4197.210s, Estimated Time Remaining: 8092.983s.
+
+Epoch [157/500], Step [1875/6000], Loss: 169.7378.
+Time Used: 4210.586s, Estimated Time Remaining: 8056.704s.
+
+Epoch [157/500], Step [1880/6000], Loss: 145.5571.
+Time Used: 4220.371s, Estimated Time Remaining: 8042.692s.
+
+Epoch [158/500], Step [1885/6000], Loss: 163.9625.
+Time Used: 4233.489s, Estimated Time Remaining: 7987.938s.
+
+Epoch [158/500], Step [1890/6000], Loss: 141.6504.
+Time Used: 4243.213s, Estimated Time Remaining: 7976.026s.
+
+Epoch [158/500], Step [1895/6000], Loss: 173.6020.
+Time Used: 4252.875s, Estimated Time Remaining: 7952.952s.
+
+Epoch [159/500], Step [1900/6000], Loss: 167.9364.
+Time Used: 4265.958s, Estimated Time Remaining: 7951.321s.
+
+Epoch [159/500], Step [1905/6000], Loss: 202.2941.
+Time Used: 4275.659s, Estimated Time Remaining: 7925.374s.
+
+Epoch [160/500], Step [1910/6000], Loss: 171.6649.
+Time Used: 4289.064s, Estimated Time Remaining: 7997.452s.
+
+Epoch [160/500], Step [1915/6000], Loss: 143.9860.
+Time Used: 4298.790s, Estimated Time Remaining: 7967.657s.
+
+Epoch [160/500], Step [1920/6000], Loss: 155.8535.
+Time Used: 4308.465s, Estimated Time Remaining: 7940.267s.
+
+Epoch [161/500], Step [1925/6000], Loss: 182.2595.
+Time Used: 4321.999s, Estimated Time Remaining: 8237.757s.
+
+Epoch [161/500], Step [1930/6000], Loss: 198.6949.
+Time Used: 4332.211s, Estimated Time Remaining: 8268.531s.
+
+Epoch [162/500], Step [1935/6000], Loss: 152.7307.
+Time Used: 4345.666s, Estimated Time Remaining: 8156.995s.
+
+Epoch [162/500], Step [1940/6000], Loss: 161.1024.
+Time Used: 4355.368s, Estimated Time Remaining: 8079.317s.
+
+Epoch [163/500], Step [1945/6000], Loss: 167.5310.
+Time Used: 4368.673s, Estimated Time Remaining: 7919.901s.
+
+Epoch [163/500], Step [1950/6000], Loss: 153.8427.
+Time Used: 4378.377s, Estimated Time Remaining: 7897.175s.
+
+Epoch [163/500], Step [1955/6000], Loss: 158.4836.
+Time Used: 4388.077s, Estimated Time Remaining: 7859.255s.
+
+Epoch [164/500], Step [1960/6000], Loss: 162.5858.
+Time Used: 4401.574s, Estimated Time Remaining: 7871.042s.
+
+Epoch [164/500], Step [1965/6000], Loss: 169.2649.
+Time Used: 4411.303s, Estimated Time Remaining: 7837.075s.
+
+Epoch [165/500], Step [1970/6000], Loss: 157.5181.
+Time Used: 4424.542s, Estimated Time Remaining: 7862.861s.
+
+Epoch [165/500], Step [1975/6000], Loss: 163.8991.
+Time Used: 4434.245s, Estimated Time Remaining: 7826.924s.
+
+Epoch [165/500], Step [1980/6000], Loss: 165.9011.
+Time Used: 4443.933s, Estimated Time Remaining: 7797.389s.
+
+Epoch [166/500], Step [1985/6000], Loss: 154.2517.
+Time Used: 4457.153s, Estimated Time Remaining: 7789.004s.
+
+Epoch [166/500], Step [1990/6000], Loss: 164.0900.
+Time Used: 4466.912s, Estimated Time Remaining: 7787.063s.
+
+Epoch [167/500], Step [1995/6000], Loss: 174.4130.
+Time Used: 4480.249s, Estimated Time Remaining: 7773.341s.
+
+Epoch [167/500], Step [2000/6000], Loss: 144.3925.
+Time Used: 4489.985s, Estimated Time Remaining: 7779.045s.
+
+Epoch [168/500], Step [2005/6000], Loss: 157.0680.
+Time Used: 4503.443s, Estimated Time Remaining: 7776.390s.
+
+Epoch [168/500], Step [2010/6000], Loss: 164.2782.
+Time Used: 4513.145s, Estimated Time Remaining: 7767.185s.
+
+Epoch [168/500], Step [2015/6000], Loss: 168.2169.
+Time Used: 4523.002s, Estimated Time Remaining: 7783.869s.
+
+Epoch [169/500], Step [2020/6000], Loss: 160.8519.
+Time Used: 4536.272s, Estimated Time Remaining: 7926.805s.
+
+Epoch [169/500], Step [2025/6000], Loss: 173.2040.
+Time Used: 4546.019s, Estimated Time Remaining: 7825.685s.
+
+Epoch [170/500], Step [2030/6000], Loss: 180.6277.
+Time Used: 4559.481s, Estimated Time Remaining: 7855.719s.
+
+Epoch [170/500], Step [2035/6000], Loss: 161.5389.
+Time Used: 4569.225s, Estimated Time Remaining: 7813.234s.
+
+Epoch [170/500], Step [2040/6000], Loss: 154.7781.
+Time Used: 4578.926s, Estimated Time Remaining: 7703.444s.
+
+Epoch [171/500], Step [2045/6000], Loss: 149.1936.
+Time Used: 4592.261s, Estimated Time Remaining: 7685.517s.
+
+Epoch [171/500], Step [2050/6000], Loss: 160.5072.
+Time Used: 4601.997s, Estimated Time Remaining: 7679.459s.
+
+Epoch [172/500], Step [2055/6000], Loss: 164.7561.
+Time Used: 4615.302s, Estimated Time Remaining: 7653.086s.
+
+Epoch [172/500], Step [2060/6000], Loss: 151.5180.
+Time Used: 4625.021s, Estimated Time Remaining: 7644.513s.
+
+Epoch [173/500], Step [2065/6000], Loss: 158.7556.
+Time Used: 4638.352s, Estimated Time Remaining: 7628.249s.
+
+Epoch [173/500], Step [2070/6000], Loss: 164.2913.
+Time Used: 4648.059s, Estimated Time Remaining: 7626.987s.
+
+Epoch [173/500], Step [2075/6000], Loss: 174.3022.
+Time Used: 4657.947s, Estimated Time Remaining: 7618.075s.
+
+Epoch [174/500], Step [2080/6000], Loss: 160.5845.
+Time Used: 4671.311s, Estimated Time Remaining: 7611.014s.
+
+Epoch [174/500], Step [2085/6000], Loss: 167.6616.
+Time Used: 4681.011s, Estimated Time Remaining: 7597.158s.
+
+Epoch [175/500], Step [2090/6000], Loss: 163.2040.
+Time Used: 4693.892s, Estimated Time Remaining: 7638.470s.
+
+Epoch [175/500], Step [2095/6000], Loss: 170.5636.
+Time Used: 4703.574s, Estimated Time Remaining: 7567.646s.
+
+Epoch [175/500], Step [2100/6000], Loss: 141.4075.
+Time Used: 4713.272s, Estimated Time Remaining: 7539.226s.
+
+Epoch [176/500], Step [2105/6000], Loss: 160.0723.
+Time Used: 4726.119s, Estimated Time Remaining: 7598.592s.
+
+Epoch [176/500], Step [2110/6000], Loss: 166.5727.
+Time Used: 4735.818s, Estimated Time Remaining: 7571.724s.
+
+Epoch [177/500], Step [2115/6000], Loss: 189.0510.
+Time Used: 4748.684s, Estimated Time Remaining: 7718.489s.
+
+Epoch [177/500], Step [2120/6000], Loss: 141.5924.
+Time Used: 4758.560s, Estimated Time Remaining: 7683.888s.
+
+Epoch [178/500], Step [2125/6000], Loss: 155.5049.
+Time Used: 4771.415s, Estimated Time Remaining: 7621.478s.
+
+Epoch [178/500], Step [2130/6000], Loss: 164.3271.
+Time Used: 4781.605s, Estimated Time Remaining: 7712.423s.
+
+Epoch [178/500], Step [2135/6000], Loss: 135.2647.
+Time Used: 4791.320s, Estimated Time Remaining: 7536.352s.
+
+Epoch [179/500], Step [2140/6000], Loss: 149.4563.
+Time Used: 4804.371s, Estimated Time Remaining: 7535.029s.
+
+Epoch [179/500], Step [2145/6000], Loss: 163.6749.
+Time Used: 4814.092s, Estimated Time Remaining: 7504.311s.
+
+Epoch [180/500], Step [2150/6000], Loss: 158.9093.
+Time Used: 4827.551s, Estimated Time Remaining: 7832.215s.
+
+Epoch [180/500], Step [2155/6000], Loss: 185.1297.
+Time Used: 4837.661s, Estimated Time Remaining: 7543.997s.
+
+Epoch [180/500], Step [2160/6000], Loss: 160.6678.
+Time Used: 4847.374s, Estimated Time Remaining: 7641.061s.
+
+Epoch [181/500], Step [2165/6000], Loss: 166.7165.
+Time Used: 4860.543s, Estimated Time Remaining: 7572.003s.
+
+Epoch [181/500], Step [2170/6000], Loss: 147.7485.
+Time Used: 4870.422s, Estimated Time Remaining: 7668.139s.
+
+Epoch [182/500], Step [2175/6000], Loss: 159.0345.
+Time Used: 4883.596s, Estimated Time Remaining: 7532.582s.
+
+Epoch [182/500], Step [2180/6000], Loss: 142.3804.
+Time Used: 4893.283s, Estimated Time Remaining: 7464.370s.
+
+Epoch [183/500], Step [2185/6000], Loss: 159.8809.
+Time Used: 4906.674s, Estimated Time Remaining: 7440.069s.
+
+Epoch [183/500], Step [2190/6000], Loss: 170.1096.
+Time Used: 4916.553s, Estimated Time Remaining: 7562.224s.
+
+Epoch [183/500], Step [2195/6000], Loss: 159.9613.
+Time Used: 4926.222s, Estimated Time Remaining: 7439.631s.
+
+Epoch [184/500], Step [2200/6000], Loss: 163.4548.
+Time Used: 4939.538s, Estimated Time Remaining: 7408.805s.
+
+Epoch [184/500], Step [2205/6000], Loss: 171.3823.
+Time Used: 4949.210s, Estimated Time Remaining: 7382.897s.
+
+Epoch [185/500], Step [2210/6000], Loss: 166.1010.
+Time Used: 4962.537s, Estimated Time Remaining: 7341.441s.
+
+Epoch [185/500], Step [2215/6000], Loss: 147.1632.
+Time Used: 4972.243s, Estimated Time Remaining: 7334.813s.
+
+Epoch [185/500], Step [2220/6000], Loss: 155.2658.
+Time Used: 4981.925s, Estimated Time Remaining: 7320.305s.
+
+Epoch [186/500], Step [2225/6000], Loss: 158.0502.
+Time Used: 4995.375s, Estimated Time Remaining: 7351.320s.
+
+Epoch [186/500], Step [2230/6000], Loss: 160.2580.
+Time Used: 5005.077s, Estimated Time Remaining: 7309.984s.
+
+Epoch [187/500], Step [2235/6000], Loss: 156.7259.
+Time Used: 5018.335s, Estimated Time Remaining: 7300.780s.
+
+Epoch [187/500], Step [2240/6000], Loss: 172.4812.
+Time Used: 5028.042s, Estimated Time Remaining: 7291.255s.
+
+Epoch [188/500], Step [2245/6000], Loss: 165.9753.
+Time Used: 5041.124s, Estimated Time Remaining: 7275.850s.
+
+Epoch [188/500], Step [2250/6000], Loss: 163.5844.
+Time Used: 5050.876s, Estimated Time Remaining: 7290.858s.
+
+Epoch [188/500], Step [2255/6000], Loss: 147.5016.
+Time Used: 5060.562s, Estimated Time Remaining: 7274.372s.
+
+Epoch [189/500], Step [2260/6000], Loss: 137.7183.
+Time Used: 5073.918s, Estimated Time Remaining: 7257.669s.
+
+Epoch [189/500], Step [2265/6000], Loss: 136.5343.
+Time Used: 5083.596s, Estimated Time Remaining: 7236.384s.
+
+Epoch [190/500], Step [2270/6000], Loss: 150.5259.
+Time Used: 5096.815s, Estimated Time Remaining: 7244.677s.
+
+Epoch [190/500], Step [2275/6000], Loss: 158.0463.
+Time Used: 5106.514s, Estimated Time Remaining: 7225.824s.
+
+Epoch [190/500], Step [2280/6000], Loss: 148.9225.
+Time Used: 5116.210s, Estimated Time Remaining: 7213.928s.
+
+Epoch [191/500], Step [2285/6000], Loss: 152.0632.
+Time Used: 5129.600s, Estimated Time Remaining: 7187.008s.
+
+Epoch [191/500], Step [2290/6000], Loss: 141.8351.
+Time Used: 5139.328s, Estimated Time Remaining: 7180.792s.
+
+Epoch [192/500], Step [2295/6000], Loss: 146.3774.
+Time Used: 5153.013s, Estimated Time Remaining: 7222.538s.
+
+Epoch [192/500], Step [2300/6000], Loss: 165.3416.
+Time Used: 5162.716s, Estimated Time Remaining: 7238.017s.
+
+Epoch [193/500], Step [2305/6000], Loss: 161.5630.
+Time Used: 5175.967s, Estimated Time Remaining: 7161.283s.
+
+Epoch [193/500], Step [2310/6000], Loss: 155.5374.
+Time Used: 5185.831s, Estimated Time Remaining: 7224.938s.
+
+Epoch [193/500], Step [2315/6000], Loss: 178.8400.
+Time Used: 5195.549s, Estimated Time Remaining: 7191.243s.
+
+Epoch [194/500], Step [2320/6000], Loss: 151.9379.
+Time Used: 5208.777s, Estimated Time Remaining: 7175.704s.
+
+Epoch [194/500], Step [2325/6000], Loss: 156.1555.
+Time Used: 5218.456s, Estimated Time Remaining: 7144.200s.
+
+Epoch [195/500], Step [2330/6000], Loss: 162.8188.
+Time Used: 5231.356s, Estimated Time Remaining: 7195.089s.
+
+Epoch [195/500], Step [2335/6000], Loss: 160.7043.
+Time Used: 5241.054s, Estimated Time Remaining: 7158.131s.
+
+Epoch [195/500], Step [2340/6000], Loss: 143.5364.
+Time Used: 5250.764s, Estimated Time Remaining: 7104.942s.
+
+Epoch [196/500], Step [2345/6000], Loss: 145.8257.
+Time Used: 5263.848s, Estimated Time Remaining: 7126.195s.
+
+Epoch [196/500], Step [2350/6000], Loss: 159.3128.
+Time Used: 5273.518s, Estimated Time Remaining: 7077.811s.
+
+Epoch [197/500], Step [2355/6000], Loss: 156.2470.
+Time Used: 5286.909s, Estimated Time Remaining: 7148.792s.
+
+Epoch [197/500], Step [2360/6000], Loss: 167.8691.
+Time Used: 5297.220s, Estimated Time Remaining: 7298.878s.
+
+Epoch [198/500], Step [2365/6000], Loss: 144.2723.
+Time Used: 5310.042s, Estimated Time Remaining: 7121.186s.
+
+Epoch [198/500], Step [2370/6000], Loss: 153.3134.
+Time Used: 5319.769s, Estimated Time Remaining: 7137.104s.
+
+Epoch [198/500], Step [2375/6000], Loss: 160.3095.
+Time Used: 5329.474s, Estimated Time Remaining: 7098.411s.
+
+Epoch [199/500], Step [2380/6000], Loss: 146.1313.
+Time Used: 5342.327s, Estimated Time Remaining: 7206.599s.
+
+Epoch [199/500], Step [2385/6000], Loss: 146.5736.
+Time Used: 5352.054s, Estimated Time Remaining: 7100.110s.
+
+Epoch [200/500], Step [2390/6000], Loss: 167.5321.
+Time Used: 5365.415s, Estimated Time Remaining: 7063.947s.
+
+Epoch [200/500], Step [2395/6000], Loss: 155.6996.
+Time Used: 5375.059s, Estimated Time Remaining: 7031.548s.
+
+Epoch [200/500], Step [2400/6000], Loss: 140.1937.
+Time Used: 5384.752s, Estimated Time Remaining: 6976.619s.
+
+Epoch [201/500], Step [2405/6000], Loss: 174.9778.
+Time Used: 5397.799s, Estimated Time Remaining: 6989.211s.
+
+Epoch [201/500], Step [2410/6000], Loss: 152.1727.
+Time Used: 5407.682s, Estimated Time Remaining: 7003.441s.
+
+Epoch [202/500], Step [2415/6000], Loss: 214.9894.
+Time Used: 5421.010s, Estimated Time Remaining: 7018.246s.
+
+Epoch [202/500], Step [2420/6000], Loss: 142.0845.
+Time Used: 5430.705s, Estimated Time Remaining: 6932.096s.
+
+Epoch [203/500], Step [2425/6000], Loss: 155.8592.
+Time Used: 5444.064s, Estimated Time Remaining: 6918.992s.
+
+Epoch [203/500], Step [2430/6000], Loss: 170.8002.
+Time Used: 5453.748s, Estimated Time Remaining: 6916.029s.
+
+Epoch [203/500], Step [2435/6000], Loss: 147.9282.
+Time Used: 5463.605s, Estimated Time Remaining: 6914.543s.
+
+Epoch [204/500], Step [2440/6000], Loss: 151.8795.
+Time Used: 5476.947s, Estimated Time Remaining: 7008.621s.
+
+Epoch [204/500], Step [2445/6000], Loss: 147.0656.
+Time Used: 5486.637s, Estimated Time Remaining: 6952.984s.
+
+Epoch [205/500], Step [2450/6000], Loss: 145.4096.
+Time Used: 5499.878s, Estimated Time Remaining: 6912.226s.
+
+Epoch [205/500], Step [2455/6000], Loss: 158.0411.
+Time Used: 5509.568s, Estimated Time Remaining: 6878.827s.
+
+Epoch [205/500], Step [2460/6000], Loss: 159.7948.
+Time Used: 5519.265s, Estimated Time Remaining: 6859.691s.
+
+Epoch [206/500], Step [2465/6000], Loss: 139.5704.
+Time Used: 5532.565s, Estimated Time Remaining: 6852.738s.
+
+Epoch [206/500], Step [2470/6000], Loss: 145.5146.
+Time Used: 5542.249s, Estimated Time Remaining: 6840.262s.
+
+Epoch [207/500], Step [2475/6000], Loss: 144.1263.
+Time Used: 5555.810s, Estimated Time Remaining: 7218.211s.
+
+Epoch [207/500], Step [2480/6000], Loss: 153.9768.
+Time Used: 5565.538s, Estimated Time Remaining: 6990.140s.
+
+Epoch [208/500], Step [2485/6000], Loss: 159.2101.
+Time Used: 5578.858s, Estimated Time Remaining: 6917.327s.
+
+Epoch [208/500], Step [2490/6000], Loss: 167.1637.
+Time Used: 5588.549s, Estimated Time Remaining: 6879.622s.
+
+Epoch [208/500], Step [2495/6000], Loss: 127.3118.
+Time Used: 5598.257s, Estimated Time Remaining: 6803.754s.
+
+Epoch [209/500], Step [2500/6000], Loss: 154.4148.
+Time Used: 5611.138s, Estimated Time Remaining: 6873.456s.
+
+Epoch [209/500], Step [2505/6000], Loss: 141.1098.
+Time Used: 5620.835s, Estimated Time Remaining: 6840.092s.
+
+Epoch [210/500], Step [2510/6000], Loss: 158.8607.
+Time Used: 5634.130s, Estimated Time Remaining: 6809.183s.
+
+Epoch [210/500], Step [2515/6000], Loss: 157.3491.
+Time Used: 5644.256s, Estimated Time Remaining: 6743.929s.
+
+Epoch [210/500], Step [2520/6000], Loss: 154.7430.
+Time Used: 5653.977s, Estimated Time Remaining: 6882.176s.
+
+Epoch [211/500], Step [2525/6000], Loss: 136.2455.
+Time Used: 5667.414s, Estimated Time Remaining: 6845.808s.
+
+Epoch [211/500], Step [2530/6000], Loss: 146.8270.
+Time Used: 5677.105s, Estimated Time Remaining: 6732.849s.
+
+Epoch [212/500], Step [2535/6000], Loss: 149.9184.
+Time Used: 5690.439s, Estimated Time Remaining: 6727.124s.
+
+Epoch [212/500], Step [2540/6000], Loss: 158.9603.
+Time Used: 5700.134s, Estimated Time Remaining: 6705.559s.
+
+Epoch [213/500], Step [2545/6000], Loss: 149.5565.
+Time Used: 5713.868s, Estimated Time Remaining: 6730.623s.
+
+Epoch [213/500], Step [2550/6000], Loss: 166.0821.
+Time Used: 5723.575s, Estimated Time Remaining: 6699.680s.
+
+Epoch [213/500], Step [2555/6000], Loss: 122.9831.
+Time Used: 5733.185s, Estimated Time Remaining: 6661.537s.
+
+Epoch [214/500], Step [2560/6000], Loss: 143.9168.
+Time Used: 5746.462s, Estimated Time Remaining: 6648.592s.
+
+Epoch [214/500], Step [2565/6000], Loss: 126.6110.
+Time Used: 5756.308s, Estimated Time Remaining: 6640.283s.
+
+Epoch [215/500], Step [2570/6000], Loss: 146.3340.
+Time Used: 5769.141s, Estimated Time Remaining: 6831.997s.
+
+Epoch [215/500], Step [2575/6000], Loss: 133.0844.
+Time Used: 5778.901s, Estimated Time Remaining: 6725.391s.
+
+Epoch [215/500], Step [2580/6000], Loss: 184.3621.
+Time Used: 5788.592s, Estimated Time Remaining: 6681.696s.
+
+Epoch [216/500], Step [2585/6000], Loss: 173.1514.
+Time Used: 5802.354s, Estimated Time Remaining: 6661.027s.
+
+Epoch [216/500], Step [2590/6000], Loss: 146.5056.
+Time Used: 5812.014s, Estimated Time Remaining: 6607.824s.
+
+Epoch [217/500], Step [2595/6000], Loss: 146.1761.
+Time Used: 5825.354s, Estimated Time Remaining: 6592.745s.
+
+Epoch [217/500], Step [2600/6000], Loss: 158.9513.
+Time Used: 5835.060s, Estimated Time Remaining: 6584.819s.
+
+Epoch [218/500], Step [2605/6000], Loss: 145.2847.
+Time Used: 5848.180s, Estimated Time Remaining: 6575.296s.
+
+Epoch [218/500], Step [2610/6000], Loss: 133.6539.
+Time Used: 5857.902s, Estimated Time Remaining: 6649.346s.
+
+Epoch [218/500], Step [2615/6000], Loss: 132.4918.
+Time Used: 5867.596s, Estimated Time Remaining: 6599.036s.
+
+Epoch [219/500], Step [2620/6000], Loss: 140.7996.
+Time Used: 5880.656s, Estimated Time Remaining: 6592.713s.
+
+Epoch [219/500], Step [2625/6000], Loss: 119.3076.
+Time Used: 5890.365s, Estimated Time Remaining: 6557.324s.
+
+Epoch [220/500], Step [2630/6000], Loss: 144.7866.
+Time Used: 5903.601s, Estimated Time Remaining: 6653.684s.
+
+Epoch [220/500], Step [2635/6000], Loss: 107.4570.
+Time Used: 5913.394s, Estimated Time Remaining: 6607.896s.
+
+Epoch [220/500], Step [2640/6000], Loss: 140.2782.
+Time Used: 5923.084s, Estimated Time Remaining: 6575.978s.
+
+Epoch [221/500], Step [2645/6000], Loss: 133.7366.
+Time Used: 5936.573s, Estimated Time Remaining: 6519.154s.
+
+Epoch [221/500], Step [2650/6000], Loss: 106.1287.
+Time Used: 5946.452s, Estimated Time Remaining: 6644.917s.
+
+Epoch [222/500], Step [2655/6000], Loss: 140.2999.
+Time Used: 5959.758s, Estimated Time Remaining: 6581.316s.
+
+Epoch [222/500], Step [2660/6000], Loss: 154.8153.
+Time Used: 5969.468s, Estimated Time Remaining: 6549.775s.
+
+Epoch [223/500], Step [2665/6000], Loss: 136.5684.
+Time Used: 5982.784s, Estimated Time Remaining: 6487.856s.
+
+Epoch [223/500], Step [2670/6000], Loss: 125.6480.
+Time Used: 5992.490s, Estimated Time Remaining: 6464.296s.
+
+Epoch [223/500], Step [2675/6000], Loss: 140.5352.
+Time Used: 6002.198s, Estimated Time Remaining: 6449.164s.
+
+Epoch [224/500], Step [2680/6000], Loss: 122.1854.
+Time Used: 6015.533s, Estimated Time Remaining: 6435.553s.
+
+Epoch [224/500], Step [2685/6000], Loss: 141.0817.
+Time Used: 6025.222s, Estimated Time Remaining: 6419.749s.
+
+Epoch [225/500], Step [2690/6000], Loss: 128.8430.
+Time Used: 6038.269s, Estimated Time Remaining: 6426.217s.
+
+Epoch [225/500], Step [2695/6000], Loss: 118.9642.
+Time Used: 6048.021s, Estimated Time Remaining: 6420.615s.
+
+Epoch [225/500], Step [2700/6000], Loss: 154.7442.
+Time Used: 6057.758s, Estimated Time Remaining: 6413.348s.
+
+Epoch [226/500], Step [2705/6000], Loss: 125.3727.
+Time Used: 6071.032s, Estimated Time Remaining: 6403.703s.
+
+Epoch [226/500], Step [2710/6000], Loss: 133.4510.
+Time Used: 6080.739s, Estimated Time Remaining: 6389.545s.
+
+Epoch [227/500], Step [2715/6000], Loss: 121.3512.
+Time Used: 6094.220s, Estimated Time Remaining: 6382.151s.
+
+Epoch [227/500], Step [2720/6000], Loss: 138.0187.
+Time Used: 6103.945s, Estimated Time Remaining: 6381.160s.
+
+Epoch [228/500], Step [2725/6000], Loss: 128.7956.
+Time Used: 6117.188s, Estimated Time Remaining: 6356.909s.
+
+Epoch [228/500], Step [2730/6000], Loss: 146.6840.
+Time Used: 6126.944s, Estimated Time Remaining: 6405.306s.
+
+Epoch [228/500], Step [2735/6000], Loss: 126.9959.
+Time Used: 6136.660s, Estimated Time Remaining: 6379.906s.
+
+Epoch [229/500], Step [2740/6000], Loss: 198.5272.
+Time Used: 6149.956s, Estimated Time Remaining: 6337.441s.
+
+Epoch [229/500], Step [2745/6000], Loss: 121.5779.
+Time Used: 6159.838s, Estimated Time Remaining: 6308.783s.
+
+Epoch [230/500], Step [2750/6000], Loss: 125.1068.
+Time Used: 6173.058s, Estimated Time Remaining: 6353.626s.
+
+Epoch [230/500], Step [2755/6000], Loss: 122.2017.
+Time Used: 6182.805s, Estimated Time Remaining: 6329.486s.
+
+Epoch [230/500], Step [2760/6000], Loss: 128.0955.
+Time Used: 6192.501s, Estimated Time Remaining: 6288.391s.
+
+Epoch [231/500], Step [2765/6000], Loss: 128.6128.
+Time Used: 6205.371s, Estimated Time Remaining: 6365.010s.
+
+Epoch [231/500], Step [2770/6000], Loss: 124.3199.
+Time Used: 6215.070s, Estimated Time Remaining: 6311.207s.
+
+Epoch [232/500], Step [2775/6000], Loss: 133.2006.
+Time Used: 6228.348s, Estimated Time Remaining: 6293.000s.
+
+Epoch [232/500], Step [2780/6000], Loss: 129.9705.
+Time Used: 6238.049s, Estimated Time Remaining: 6248.824s.
+
+Epoch [233/500], Step [2785/6000], Loss: 114.2960.
+Time Used: 6250.905s, Estimated Time Remaining: 6232.504s.
+
+Epoch [233/500], Step [2790/6000], Loss: 144.0566.
+Time Used: 6260.655s, Estimated Time Remaining: 6268.681s.
+
+Epoch [233/500], Step [2795/6000], Loss: 125.0667.
+Time Used: 6270.370s, Estimated Time Remaining: 6249.955s.
+
+Epoch [234/500], Step [2800/6000], Loss: 133.6036.
+Time Used: 6283.416s, Estimated Time Remaining: 6237.948s.
+
+Epoch [234/500], Step [2805/6000], Loss: 127.6250.
+Time Used: 6293.134s, Estimated Time Remaining: 6213.435s.
+
+Epoch [235/500], Step [2810/6000], Loss: 106.4028.
+Time Used: 6306.205s, Estimated Time Remaining: 6215.391s.
+
+Epoch [235/500], Step [2815/6000], Loss: 134.8217.
+Time Used: 6315.942s, Estimated Time Remaining: 6184.091s.
+
+Epoch [235/500], Step [2820/6000], Loss: 135.9516.
+Time Used: 6325.651s, Estimated Time Remaining: 6172.851s.
+
+Epoch [236/500], Step [2825/6000], Loss: 111.4438.
+Time Used: 6338.770s, Estimated Time Remaining: 6182.136s.
+
+Epoch [236/500], Step [2830/6000], Loss: 116.5888.
+Time Used: 6348.452s, Estimated Time Remaining: 6159.486s.
+
+Epoch [237/500], Step [2835/6000], Loss: 112.1076.
+Time Used: 6361.556s, Estimated Time Remaining: 6191.301s.
+
+Epoch [237/500], Step [2840/6000], Loss: 124.6219.
+Time Used: 6371.262s, Estimated Time Remaining: 6150.069s.
+
+Epoch [238/500], Step [2845/6000], Loss: 124.4783.
+Time Used: 6384.447s, Estimated Time Remaining: 6131.536s.
+
+Epoch [238/500], Step [2850/6000], Loss: 107.2337.
+Time Used: 6394.181s, Estimated Time Remaining: 6119.244s.
+
+Epoch [238/500], Step [2855/6000], Loss: 118.3158.
+Time Used: 6403.910s, Estimated Time Remaining: 6111.765s.
+
+Epoch [239/500], Step [2860/6000], Loss: 102.4716.
+Time Used: 6417.158s, Estimated Time Remaining: 6109.078s.
+
+Epoch [239/500], Step [2865/6000], Loss: 131.3803.
+Time Used: 6426.876s, Estimated Time Remaining: 6093.986s.
+
+Epoch [240/500], Step [2870/6000], Loss: 142.4026.
+Time Used: 6440.445s, Estimated Time Remaining: 6086.011s.
+
+Epoch [240/500], Step [2875/6000], Loss: 127.2150.
+Time Used: 6450.319s, Estimated Time Remaining: 6171.853s.
+
+Epoch [240/500], Step [2880/6000], Loss: 115.1853.
+Time Used: 6460.029s, Estimated Time Remaining: 6106.562s.
+
+Epoch [241/500], Step [2885/6000], Loss: 106.5169.
+Time Used: 6473.362s, Estimated Time Remaining: 6074.938s.
+
+Epoch [241/500], Step [2890/6000], Loss: 117.3621.
+Time Used: 6483.175s, Estimated Time Remaining: 6072.853s.
+
+Epoch [242/500], Step [2895/6000], Loss: 115.7053.
+Time Used: 6496.464s, Estimated Time Remaining: 6031.873s.
+
+Epoch [242/500], Step [2900/6000], Loss: 119.4760.
+Time Used: 6506.216s, Estimated Time Remaining: 6028.193s.
+
+Epoch [243/500], Step [2905/6000], Loss: 109.6309.
+Time Used: 6519.427s, Estimated Time Remaining: 6015.424s.
+
+Epoch [243/500], Step [2910/6000], Loss: 113.9382.
+Time Used: 6529.288s, Estimated Time Remaining: 5998.673s.
+
+Epoch [243/500], Step [2915/6000], Loss: 106.9530.
+Time Used: 6539.006s, Estimated Time Remaining: 5973.341s.
+
+Epoch [244/500], Step [2920/6000], Loss: 151.0076.
+Time Used: 6552.266s, Estimated Time Remaining: 5973.433s.
+
+Epoch [244/500], Step [2925/6000], Loss: 104.2403.
+Time Used: 6562.144s, Estimated Time Remaining: 5996.257s.
+
+Epoch [245/500], Step [2930/6000], Loss: 121.8176.
+Time Used: 6575.549s, Estimated Time Remaining: 5980.253s.
+
+Epoch [245/500], Step [2935/6000], Loss: 139.8820.
+Time Used: 6585.247s, Estimated Time Remaining: 5952.801s.
+
+Epoch [245/500], Step [2940/6000], Loss: 106.8820.
+Time Used: 6594.924s, Estimated Time Remaining: 5933.699s.
+
+Epoch [246/500], Step [2945/6000], Loss: 125.9203.
+Time Used: 6608.487s, Estimated Time Remaining: 5959.498s.
+
+Epoch [246/500], Step [2950/6000], Loss: 124.6607.
+Time Used: 6618.211s, Estimated Time Remaining: 5929.832s.
+
+Epoch [247/500], Step [2955/6000], Loss: 164.5361.
+Time Used: 6631.417s, Estimated Time Remaining: 5927.563s.
+
+Epoch [247/500], Step [2960/6000], Loss: 99.7742.
+Time Used: 6641.264s, Estimated Time Remaining: 5940.594s.
+
+Epoch [248/500], Step [2965/6000], Loss: 118.4606.
+Time Used: 6654.682s, Estimated Time Remaining: 5948.298s.
+
+Epoch [248/500], Step [2970/6000], Loss: 111.5630.
+Time Used: 6664.547s, Estimated Time Remaining: 5960.639s.
+
+Epoch [248/500], Step [2975/6000], Loss: 117.3869.
+Time Used: 6674.261s, Estimated Time Remaining: 5911.875s.
+
+Epoch [249/500], Step [2980/6000], Loss: 136.5310.
+Time Used: 6687.166s, Estimated Time Remaining: 5939.470s.
+
+Epoch [249/500], Step [2985/6000], Loss: 97.3665.
+Time Used: 6697.377s, Estimated Time Remaining: 5986.203s.
+
+Epoch [250/500], Step [2990/6000], Loss: 129.3486.
+Time Used: 6710.886s, Estimated Time Remaining: 5977.910s.
+
+Epoch [250/500], Step [2995/6000], Loss: 118.5747.
+Time Used: 6720.608s, Estimated Time Remaining: 5910.006s.
+
+Epoch [250/500], Step [3000/6000], Loss: 104.2269.
+Time Used: 6730.354s, Estimated Time Remaining: 5876.120s.
+
+Epoch [251/500], Step [3005/6000], Loss: 118.0915.
+Time Used: 6743.758s, Estimated Time Remaining: 5840.114s.
+
+Epoch [251/500], Step [3010/6000], Loss: 119.7480.
+Time Used: 6753.479s, Estimated Time Remaining: 5817.288s.
+
+Epoch [252/500], Step [3015/6000], Loss: 123.6207.
+Time Used: 6766.621s, Estimated Time Remaining: 5814.313s.
+
+Epoch [252/500], Step [3020/6000], Loss: 124.4609.
+Time Used: 6776.325s, Estimated Time Remaining: 5797.300s.
+
+Epoch [253/500], Step [3025/6000], Loss: 131.9296.
+Time Used: 6789.443s, Estimated Time Remaining: 5782.409s.
+
+Epoch [253/500], Step [3030/6000], Loss: 117.9706.
+Time Used: 6799.166s, Estimated Time Remaining: 5772.994s.
+
+Epoch [253/500], Step [3035/6000], Loss: 98.2974.
+Time Used: 6808.862s, Estimated Time Remaining: 5756.672s.
+
+Epoch [254/500], Step [3040/6000], Loss: 154.4023.
+Time Used: 6822.102s, Estimated Time Remaining: 5746.241s.
+
+Epoch [254/500], Step [3045/6000], Loss: 109.1938.
+Time Used: 6831.825s, Estimated Time Remaining: 5741.236s.
+
+Epoch [255/500], Step [3050/6000], Loss: 97.3768.
+Time Used: 6845.218s, Estimated Time Remaining: 5739.562s.
+
+Epoch [255/500], Step [3055/6000], Loss: 153.1173.
+Time Used: 6854.896s, Estimated Time Remaining: 5721.020s.
+
+Epoch [255/500], Step [3060/6000], Loss: 124.8148.
+Time Used: 6864.581s, Estimated Time Remaining: 5703.158s.
+
+Epoch [256/500], Step [3065/6000], Loss: 79.3956.
+Time Used: 6877.566s, Estimated Time Remaining: 5873.632s.
+
+Epoch [256/500], Step [3070/6000], Loss: 128.6460.
+Time Used: 6887.271s, Estimated Time Remaining: 5771.218s.
+
+Epoch [257/500], Step [3075/6000], Loss: 129.7687.
+Time Used: 6900.378s, Estimated Time Remaining: 5730.606s.
+
+Epoch [257/500], Step [3080/6000], Loss: 108.2696.
+Time Used: 6910.073s, Estimated Time Remaining: 5705.611s.
+
+Epoch [258/500], Step [3085/6000], Loss: 113.5152.
+Time Used: 6923.218s, Estimated Time Remaining: 5655.329s.
+
+Epoch [258/500], Step [3090/6000], Loss: 127.3164.
+Time Used: 6932.911s, Estimated Time Remaining: 5651.129s.
+
+Epoch [258/500], Step [3095/6000], Loss: 116.9688.
+Time Used: 6942.636s, Estimated Time Remaining: 5637.524s.
+
+Epoch [259/500], Step [3100/6000], Loss: 117.4005.
+Time Used: 6956.177s, Estimated Time Remaining: 5631.427s.
+
+Epoch [259/500], Step [3105/6000], Loss: 153.8179.
+Time Used: 6965.977s, Estimated Time Remaining: 5731.016s.
+
+Epoch [260/500], Step [3110/6000], Loss: 106.6539.
+Time Used: 6979.250s, Estimated Time Remaining: 5669.694s.
+
+Epoch [260/500], Step [3115/6000], Loss: 114.0882.
+Time Used: 6989.118s, Estimated Time Remaining: 5672.292s.
+
+Epoch [260/500], Step [3120/6000], Loss: 98.8962.
+Time Used: 6999.023s, Estimated Time Remaining: 5618.841s.
+
+Epoch [261/500], Step [3125/6000], Loss: 130.7811.
+Time Used: 7011.886s, Estimated Time Remaining: 5677.369s.
+
+Epoch [261/500], Step [3130/6000], Loss: 119.8276.
+Time Used: 7021.538s, Estimated Time Remaining: 5618.030s.
+
+Epoch [262/500], Step [3135/6000], Loss: 114.3578.
+Time Used: 7035.132s, Estimated Time Remaining: 5621.985s.
+
+Epoch [262/500], Step [3140/6000], Loss: 103.6125.
+Time Used: 7044.834s, Estimated Time Remaining: 5561.264s.
+
+Epoch [263/500], Step [3145/6000], Loss: 135.9112.
+Time Used: 7058.180s, Estimated Time Remaining: 5593.817s.
+
+Epoch [263/500], Step [3150/6000], Loss: 139.8092.
+Time Used: 7067.884s, Estimated Time Remaining: 5583.842s.
+
+Epoch [263/500], Step [3155/6000], Loss: 133.2192.
+Time Used: 7077.537s, Estimated Time Remaining: 5552.275s.
+
+Epoch [264/500], Step [3160/6000], Loss: 98.5322.
+Time Used: 7090.888s, Estimated Time Remaining: 5525.962s.
+
+Epoch [264/500], Step [3165/6000], Loss: 120.8370.
+Time Used: 7100.606s, Estimated Time Remaining: 5505.519s.
+
+Epoch [265/500], Step [3170/6000], Loss: 106.8805.
+Time Used: 7113.995s, Estimated Time Remaining: 5496.998s.
+
+Epoch [265/500], Step [3175/6000], Loss: 125.5783.
+Time Used: 7123.692s, Estimated Time Remaining: 5484.958s.
+
+Epoch [265/500], Step [3180/6000], Loss: 150.4522.
+Time Used: 7133.388s, Estimated Time Remaining: 5464.501s.
+
+Epoch [266/500], Step [3185/6000], Loss: 113.8746.
+Time Used: 7146.271s, Estimated Time Remaining: 5518.294s.
+
+Epoch [266/500], Step [3190/6000], Loss: 117.6612.
+Time Used: 7156.003s, Estimated Time Remaining: 5492.175s.
+
+Epoch [267/500], Step [3195/6000], Loss: 101.8161.
+Time Used: 7168.900s, Estimated Time Remaining: 5472.649s.
+
+Epoch [267/500], Step [3200/6000], Loss: 121.2099.
+Time Used: 7178.761s, Estimated Time Remaining: 5492.124s.
+
+Epoch [268/500], Step [3205/6000], Loss: 115.5884.
+Time Used: 7192.044s, Estimated Time Remaining: 5455.681s.
+
+Epoch [268/500], Step [3210/6000], Loss: 121.9449.
+Time Used: 7201.764s, Estimated Time Remaining: 5439.147s.
+
+Epoch [268/500], Step [3215/6000], Loss: 98.9843.
+Time Used: 7211.467s, Estimated Time Remaining: 5403.718s.
+
+Epoch [269/500], Step [3220/6000], Loss: 121.9526.
+Time Used: 7224.748s, Estimated Time Remaining: 5391.031s.
+
+Epoch [269/500], Step [3225/6000], Loss: 126.2241.
+Time Used: 7234.506s, Estimated Time Remaining: 5388.661s.
+
+Epoch [270/500], Step [3230/6000], Loss: 130.2174.
+Time Used: 7247.773s, Estimated Time Remaining: 5405.423s.
+
+Epoch [270/500], Step [3235/6000], Loss: 131.9396.
+Time Used: 7257.439s, Estimated Time Remaining: 5351.773s.
+
+Epoch [270/500], Step [3240/6000], Loss: 119.7323.
+Time Used: 7267.136s, Estimated Time Remaining: 5347.456s.
+
+Epoch [271/500], Step [3245/6000], Loss: 114.7543.
+Time Used: 7280.216s, Estimated Time Remaining: 5356.808s.
+
+Epoch [271/500], Step [3250/6000], Loss: 116.1839.
+Time Used: 7289.917s, Estimated Time Remaining: 5339.906s.
+
+Epoch [272/500], Step [3255/6000], Loss: 130.9826.
+Time Used: 7303.217s, Estimated Time Remaining: 5344.660s.
+
+Epoch [272/500], Step [3260/6000], Loss: 112.7188.
+Time Used: 7312.928s, Estimated Time Remaining: 5316.643s.
+
+Epoch [273/500], Step [3265/6000], Loss: 118.5954.
+Time Used: 7326.264s, Estimated Time Remaining: 5306.570s.
+
+Epoch [273/500], Step [3270/6000], Loss: 133.7594.
+Time Used: 7336.001s, Estimated Time Remaining: 5298.700s.
+
+Epoch [273/500], Step [3275/6000], Loss: 105.2592.
+Time Used: 7345.905s, Estimated Time Remaining: 5374.673s.
+
+Epoch [274/500], Step [3280/6000], Loss: 125.9818.
+Time Used: 7359.203s, Estimated Time Remaining: 5327.936s.
+
+Epoch [274/500], Step [3285/6000], Loss: 127.3980.
+Time Used: 7368.877s, Estimated Time Remaining: 5299.258s.
+
+Epoch [275/500], Step [3290/6000], Loss: 131.9627.
+Time Used: 7381.779s, Estimated Time Remaining: 5683.858s.
+
+Epoch [275/500], Step [3295/6000], Loss: 116.2396.
+Time Used: 7391.491s, Estimated Time Remaining: 5366.059s.
+
+Epoch [275/500], Step [3300/6000], Loss: 118.6406.
+Time Used: 7401.167s, Estimated Time Remaining: 5292.444s.
+
+Epoch [276/500], Step [3305/6000], Loss: 129.4264.
+Time Used: 7414.546s, Estimated Time Remaining: 5271.474s.
+
+Epoch [276/500], Step [3310/6000], Loss: 129.2339.
+Time Used: 7424.255s, Estimated Time Remaining: 5228.821s.
+
+Epoch [277/500], Step [3315/6000], Loss: 138.9511.
+Time Used: 7437.777s, Estimated Time Remaining: 5272.200s.
+
+Epoch [277/500], Step [3320/6000], Loss: 108.2416.
+Time Used: 7447.474s, Estimated Time Remaining: 5230.326s.
+
+Epoch [278/500], Step [3325/6000], Loss: 144.2509.
+Time Used: 7460.813s, Estimated Time Remaining: 5210.923s.
+
+Epoch [278/500], Step [3330/6000], Loss: 104.2439.
+Time Used: 7470.521s, Estimated Time Remaining: 5182.948s.
+
+Epoch [278/500], Step [3335/6000], Loss: 109.4855.
+Time Used: 7480.234s, Estimated Time Remaining: 5170.551s.
+
+Epoch [279/500], Step [3340/6000], Loss: 111.3342.
+Time Used: 7493.521s, Estimated Time Remaining: 5157.505s.
+
+Epoch [279/500], Step [3345/6000], Loss: 151.4732.
+Time Used: 7503.269s, Estimated Time Remaining: 5150.658s.
+
+Epoch [280/500], Step [3350/6000], Loss: 107.3302.
+Time Used: 7516.336s, Estimated Time Remaining: 5162.897s.
+
+Epoch [280/500], Step [3355/6000], Loss: 127.0861.
+Time Used: 7526.103s, Estimated Time Remaining: 5147.468s.
+
+Epoch [280/500], Step [3360/6000], Loss: 108.3978.
+Time Used: 7535.832s, Estimated Time Remaining: 5137.404s.
+
+Epoch [281/500], Step [3365/6000], Loss: 127.6741.
+Time Used: 7549.297s, Estimated Time Remaining: 5149.805s.
+
+Epoch [281/500], Step [3370/6000], Loss: 117.5632.
+Time Used: 7559.030s, Estimated Time Remaining: 5106.763s.
+
+Epoch [282/500], Step [3375/6000], Loss: 110.6623.
+Time Used: 7572.353s, Estimated Time Remaining: 5103.395s.
+
+Epoch [282/500], Step [3380/6000], Loss: 111.1991.
+Time Used: 7582.090s, Estimated Time Remaining: 5086.707s.
+
+Epoch [283/500], Step [3385/6000], Loss: 105.5374.
+Time Used: 7595.431s, Estimated Time Remaining: 5035.361s.
+
+Epoch [283/500], Step [3390/6000], Loss: 98.0461.
+Time Used: 7605.125s, Estimated Time Remaining: 5061.603s.
+
+Epoch [283/500], Step [3395/6000], Loss: 104.6822.
+Time Used: 7614.788s, Estimated Time Remaining: 5039.030s.
+
+Epoch [284/500], Step [3400/6000], Loss: 117.6216.
+Time Used: 7628.062s, Estimated Time Remaining: 5038.516s.
+
+Epoch [284/500], Step [3405/6000], Loss: 91.3267.
+Time Used: 7637.813s, Estimated Time Remaining: 5039.516s.
+
+Epoch [285/500], Step [3410/6000], Loss: 143.5005.
+Time Used: 7651.136s, Estimated Time Remaining: 5043.882s.
+
+Epoch [285/500], Step [3415/6000], Loss: 136.6461.
+Time Used: 7660.879s, Estimated Time Remaining: 5031.386s.
+
+Epoch [285/500], Step [3420/6000], Loss: 89.7623.
+Time Used: 7670.608s, Estimated Time Remaining: 5017.738s.
+
+Epoch [286/500], Step [3425/6000], Loss: 115.3170.
+Time Used: 7683.868s, Estimated Time Remaining: 4967.533s.
+
+Epoch [286/500], Step [3430/6000], Loss: 93.9572.
+Time Used: 7694.023s, Estimated Time Remaining: 5093.711s.
+
+Epoch [287/500], Step [3435/6000], Loss: 109.9288.
+Time Used: 7707.279s, Estimated Time Remaining: 5040.626s.
+
+Epoch [287/500], Step [3440/6000], Loss: 126.5290.
+Time Used: 7717.024s, Estimated Time Remaining: 5014.608s.
+
+Epoch [288/500], Step [3445/6000], Loss: 106.2330.
+Time Used: 7730.436s, Estimated Time Remaining: 4977.285s.
+
+Epoch [288/500], Step [3450/6000], Loss: 116.1866.
+Time Used: 7740.143s, Estimated Time Remaining: 4960.534s.
+
+Epoch [288/500], Step [3455/6000], Loss: 128.1504.
+Time Used: 7749.852s, Estimated Time Remaining: 4947.093s.
+
+Epoch [289/500], Step [3460/6000], Loss: 126.5792.
+Time Used: 7763.252s, Estimated Time Remaining: 4941.135s.
+
+Epoch [289/500], Step [3465/6000], Loss: 101.9052.
+Time Used: 7772.923s, Estimated Time Remaining: 4908.793s.
+
+Epoch [290/500], Step [3470/6000], Loss: 98.7534.
+Time Used: 7786.309s, Estimated Time Remaining: 4971.111s.
+
+Epoch [290/500], Step [3475/6000], Loss: 129.4298.
+Time Used: 7796.012s, Estimated Time Remaining: 4941.754s.
+
+Epoch [290/500], Step [3480/6000], Loss: 102.1623.
+Time Used: 7805.893s, Estimated Time Remaining: 4891.614s.
+
+Epoch [291/500], Step [3485/6000], Loss: 82.9672.
+Time Used: 7819.124s, Estimated Time Remaining: 4862.750s.
+
+Epoch [291/500], Step [3490/6000], Loss: 115.9795.
+Time Used: 7828.832s, Estimated Time Remaining: 4860.345s.
+
+Epoch [292/500], Step [3495/6000], Loss: 96.1602.
+Time Used: 7842.120s, Estimated Time Remaining: 4858.147s.
+
+Epoch [292/500], Step [3500/6000], Loss: 104.8312.
+Time Used: 7851.816s, Estimated Time Remaining: 4828.055s.
+
+Epoch [293/500], Step [3505/6000], Loss: 122.8327.
+Time Used: 7865.193s, Estimated Time Remaining: 4841.857s.
+
+Epoch [293/500], Step [3510/6000], Loss: 99.8249.
+Time Used: 7874.867s, Estimated Time Remaining: 4824.498s.
+
+Epoch [293/500], Step [3515/6000], Loss: 103.3708.
+Time Used: 7884.768s, Estimated Time Remaining: 4818.054s.
+
+Epoch [294/500], Step [3520/6000], Loss: 124.1222.
+Time Used: 7898.386s, Estimated Time Remaining: 5093.741s.
+
+Epoch [294/500], Step [3525/6000], Loss: 121.9180.
+Time Used: 7908.108s, Estimated Time Remaining: 4921.917s.
+
+Epoch [295/500], Step [3530/6000], Loss: 116.2754.
+Time Used: 7920.933s, Estimated Time Remaining: 4909.710s.
+
+Epoch [295/500], Step [3535/6000], Loss: 99.5644.
+Time Used: 7931.116s, Estimated Time Remaining: 4926.204s.
+
+Epoch [295/500], Step [3540/6000], Loss: 126.4812.
+Time Used: 7940.799s, Estimated Time Remaining: 4783.334s.
+
+Epoch [296/500], Step [3545/6000], Loss: 136.7462.
+Time Used: 7954.035s, Estimated Time Remaining: 4769.525s.
+
+Epoch [296/500], Step [3550/6000], Loss: 106.8219.
+Time Used: 7963.748s, Estimated Time Remaining: 4756.116s.
+
+Epoch [297/500], Step [3555/6000], Loss: 131.0233.
+Time Used: 7976.959s, Estimated Time Remaining: 4748.522s.
+
+Epoch [297/500], Step [3560/6000], Loss: 117.2126.
+Time Used: 7986.634s, Estimated Time Remaining: 4723.870s.
+
+Epoch [298/500], Step [3565/6000], Loss: 116.1797.
+Time Used: 7999.905s, Estimated Time Remaining: 4718.371s.
+
+Epoch [298/500], Step [3570/6000], Loss: 119.3335.
+Time Used: 8009.615s, Estimated Time Remaining: 4710.157s.
+
+Epoch [298/500], Step [3575/6000], Loss: 116.3215.
+Time Used: 8019.320s, Estimated Time Remaining: 4698.328s.
+
+Epoch [299/500], Step [3580/6000], Loss: 110.9287.
+Time Used: 8032.646s, Estimated Time Remaining: 4688.972s.
+
+Epoch [299/500], Step [3585/6000], Loss: 118.3399.
+Time Used: 8042.340s, Estimated Time Remaining: 4679.692s.
+
+Epoch [300/500], Step [3590/6000], Loss: 139.5996.
+Time Used: 8055.673s, Estimated Time Remaining: 4671.525s.
+
+Epoch [300/500], Step [3595/6000], Loss: 120.8178.
+Time Used: 8065.366s, Estimated Time Remaining: 4659.978s.
+
+Epoch [300/500], Step [3600/6000], Loss: 105.2464.
+Time Used: 8075.040s, Estimated Time Remaining: 4643.900s.
+
+Epoch [301/500], Step [3605/6000], Loss: 106.9425.
+Time Used: 8088.377s, Estimated Time Remaining: 4646.828s.
+
+Epoch [301/500], Step [3610/6000], Loss: 113.6907.
+Time Used: 8098.056s, Estimated Time Remaining: 4636.585s.
+
+Epoch [302/500], Step [3615/6000], Loss: 112.7345.
+Time Used: 8110.938s, Estimated Time Remaining: 4781.654s.
+
+Epoch [302/500], Step [3620/6000], Loss: 141.5746.
+Time Used: 8120.644s, Estimated Time Remaining: 4682.560s.
+
+Epoch [303/500], Step [3625/6000], Loss: 92.8842.
+Time Used: 8133.795s, Estimated Time Remaining: 4648.380s.
+
+Epoch [303/500], Step [3630/6000], Loss: 133.3065.
+Time Used: 8143.487s, Estimated Time Remaining: 4621.400s.
+
+Epoch [303/500], Step [3635/6000], Loss: 114.7752.
+Time Used: 8153.180s, Estimated Time Remaining: 4586.912s.
+
+Epoch [304/500], Step [3640/6000], Loss: 107.5763.
+Time Used: 8166.078s, Estimated Time Remaining: 4642.151s.
+
+Epoch [304/500], Step [3645/6000], Loss: 144.8643.
+Time Used: 8175.804s, Estimated Time Remaining: 4610.909s.
+
+Epoch [305/500], Step [3650/6000], Loss: 110.1744.
+Time Used: 8189.150s, Estimated Time Remaining: 4602.210s.
+
+Epoch [305/500], Step [3655/6000], Loss: 113.6419.
+Time Used: 8198.869s, Estimated Time Remaining: 4541.322s.
+
+Epoch [305/500], Step [3660/6000], Loss: 83.0287.
+Time Used: 8208.583s, Estimated Time Remaining: 4536.667s.
+
+Epoch [306/500], Step [3665/6000], Loss: 106.4604.
+Time Used: 8222.030s, Estimated Time Remaining: 4546.066s.
+
+Epoch [306/500], Step [3670/6000], Loss: 97.0386.
+Time Used: 8231.731s, Estimated Time Remaining: 4524.944s.
+
+Epoch [307/500], Step [3675/6000], Loss: 135.9503.
+Time Used: 8244.606s, Estimated Time Remaining: 4596.300s.
+
+Epoch [307/500], Step [3680/6000], Loss: 129.2421.
+Time Used: 8254.334s, Estimated Time Remaining: 4553.667s.
+
+Epoch [308/500], Step [3685/6000], Loss: 108.8636.
+Time Used: 8267.712s, Estimated Time Remaining: 4523.834s.
+
+Epoch [308/500], Step [3690/6000], Loss: 131.3501.
+Time Used: 8277.399s, Estimated Time Remaining: 4486.260s.
+
+Epoch [308/500], Step [3695/6000], Loss: 107.6729.
+Time Used: 8287.069s, Estimated Time Remaining: 4461.333s.
+
+Epoch [309/500], Step [3700/6000], Loss: 107.2398.
+Time Used: 8300.386s, Estimated Time Remaining: 4454.736s.
+
+Epoch [309/500], Step [3705/6000], Loss: 125.0401.
+Time Used: 8310.123s, Estimated Time Remaining: 4447.584s.
+
+Epoch [310/500], Step [3710/6000], Loss: 107.8675.
+Time Used: 8323.224s, Estimated Time Remaining: 4471.748s.
+
+Epoch [310/500], Step [3715/6000], Loss: 121.8345.
+Time Used: 8332.959s, Estimated Time Remaining: 4443.262s.
+
+Epoch [310/500], Step [3720/6000], Loss: 107.0858.
+Time Used: 8342.688s, Estimated Time Remaining: 4431.509s.
+
+Epoch [311/500], Step [3725/6000], Loss: 118.7445.
+Time Used: 8355.578s, Estimated Time Remaining: 4449.086s.
+
+Epoch [311/500], Step [3730/6000], Loss: 115.4448.
+Time Used: 8365.337s, Estimated Time Remaining: 4421.968s.
+
+Epoch [312/500], Step [3735/6000], Loss: 91.4613.
+Time Used: 8378.703s, Estimated Time Remaining: 4404.413s.
+
+Epoch [312/500], Step [3740/6000], Loss: 116.7726.
+Time Used: 8388.445s, Estimated Time Remaining: 4395.141s.
+
+Epoch [313/500], Step [3745/6000], Loss: 101.5185.
+Time Used: 8401.860s, Estimated Time Remaining: 4386.628s.
+
+Epoch [313/500], Step [3750/6000], Loss: 97.1867.
+Time Used: 8411.568s, Estimated Time Remaining: 4379.991s.
+
+Epoch [313/500], Step [3755/6000], Loss: 103.1346.
+Time Used: 8421.273s, Estimated Time Remaining: 4358.430s.
+
+Epoch [314/500], Step [3760/6000], Loss: 92.5847.
+Time Used: 8434.400s, Estimated Time Remaining: 4353.434s.
+
+Epoch [314/500], Step [3765/6000], Loss: 94.1109.
+Time Used: 8444.082s, Estimated Time Remaining: 4336.739s.
+
+Epoch [315/500], Step [3770/6000], Loss: 105.6720.
+Time Used: 8457.292s, Estimated Time Remaining: 4349.335s.
+
+Epoch [315/500], Step [3775/6000], Loss: 103.9944.
+Time Used: 8466.985s, Estimated Time Remaining: 4343.205s.
+
+Epoch [315/500], Step [3780/6000], Loss: 101.8284.
+Time Used: 8476.670s, Estimated Time Remaining: 4318.899s.
+
+Epoch [316/500], Step [3785/6000], Loss: 100.1291.
+Time Used: 8489.794s, Estimated Time Remaining: 4300.281s.
+
+Epoch [316/500], Step [3790/6000], Loss: 90.6768.
+Time Used: 8499.654s, Estimated Time Remaining: 4330.105s.
+
+Epoch [317/500], Step [3795/6000], Loss: 91.5298.
+Time Used: 8512.801s, Estimated Time Remaining: 4299.984s.
+
+Epoch [317/500], Step [3800/6000], Loss: 119.5548.
+Time Used: 8522.482s, Estimated Time Remaining: 4277.790s.
+
+Epoch [318/500], Step [3805/6000], Loss: 134.5726.
+Time Used: 8535.841s, Estimated Time Remaining: 4253.877s.
+
+Epoch [318/500], Step [3810/6000], Loss: 113.9622.
+Time Used: 8545.550s, Estimated Time Remaining: 4253.830s.
+
+Epoch [318/500], Step [3815/6000], Loss: 88.8549.
+Time Used: 8555.243s, Estimated Time Remaining: 4240.731s.
+
+Epoch [319/500], Step [3820/6000], Loss: 106.1528.
+Time Used: 8568.481s, Estimated Time Remaining: 4232.440s.
+
+Epoch [319/500], Step [3825/6000], Loss: 93.7083.
+Time Used: 8578.373s, Estimated Time Remaining: 4298.241s.
+
+Epoch [320/500], Step [3830/6000], Loss: 124.7742.
+Time Used: 8591.682s, Estimated Time Remaining: 4250.724s.
+
+Epoch [320/500], Step [3835/6000], Loss: 113.2889.
+Time Used: 8601.445s, Estimated Time Remaining: 4227.282s.
+
+Epoch [320/500], Step [3840/6000], Loss: 108.1725.
+Time Used: 8611.155s, Estimated Time Remaining: 4210.715s.
+
+Epoch [321/500], Step [3845/6000], Loss: 108.8677.
+Time Used: 8624.475s, Estimated Time Remaining: 4188.249s.
+
+Epoch [321/500], Step [3850/6000], Loss: 102.4089.
+Time Used: 8634.224s, Estimated Time Remaining: 4175.018s.
+
+Epoch [322/500], Step [3855/6000], Loss: 104.1480.
+Time Used: 8647.109s, Estimated Time Remaining: 4202.912s.
+
+Epoch [322/500], Step [3860/6000], Loss: 92.9136.
+Time Used: 8656.872s, Estimated Time Remaining: 4174.269s.
+
+Epoch [323/500], Step [3865/6000], Loss: 104.3364.
+Time Used: 8670.022s, Estimated Time Remaining: 4158.627s.
+
+Epoch [323/500], Step [3870/6000], Loss: 138.2883.
+Time Used: 8679.763s, Estimated Time Remaining: 4144.723s.
+
+Epoch [323/500], Step [3875/6000], Loss: 98.0541.
+Time Used: 8689.467s, Estimated Time Remaining: 4130.978s.
+
+Epoch [324/500], Step [3880/6000], Loss: 92.6349.
+Time Used: 8702.713s, Estimated Time Remaining: 4233.149s.
+
+Epoch [324/500], Step [3885/6000], Loss: 117.9307.
+Time Used: 8712.433s, Estimated Time Remaining: 4145.008s.
+
+Epoch [325/500], Step [3890/6000], Loss: 117.0260.
+Time Used: 8725.996s, Estimated Time Remaining: 4148.825s.
+
+Epoch [325/500], Step [3895/6000], Loss: 105.7221.
+Time Used: 8735.671s, Estimated Time Remaining: 4120.485s.
+
+Epoch [325/500], Step [3900/6000], Loss: 77.1812.
+Time Used: 8745.335s, Estimated Time Remaining: 4074.236s.
+
+Epoch [326/500], Step [3905/6000], Loss: 84.2708.
+Time Used: 8758.234s, Estimated Time Remaining: 4108.290s.
+
+Epoch [326/500], Step [3910/6000], Loss: 125.7251.
+Time Used: 8767.954s, Estimated Time Remaining: 4081.010s.
+
+Epoch [327/500], Step [3915/6000], Loss: 121.4276.
+Time Used: 8781.187s, Estimated Time Remaining: 4087.249s.
+
+Epoch [327/500], Step [3920/6000], Loss: 106.8005.
+Time Used: 8790.898s, Estimated Time Remaining: 4039.763s.
+
+Epoch [328/500], Step [3925/6000], Loss: 97.9202.
+Time Used: 8804.340s, Estimated Time Remaining: 4020.439s.
+
+Epoch [328/500], Step [3930/6000], Loss: 109.5430.
+Time Used: 8814.082s, Estimated Time Remaining: 4042.986s.
+
+Epoch [328/500], Step [3935/6000], Loss: 83.8888.
+Time Used: 8823.764s, Estimated Time Remaining: 4023.972s.
+
+Epoch [329/500], Step [3940/6000], Loss: 82.4827.
+Time Used: 8837.317s, Estimated Time Remaining: 4073.798s.
+
+Epoch [329/500], Step [3945/6000], Loss: 104.6551.
+Time Used: 8847.483s, Estimated Time Remaining: 4032.430s.
+
+Epoch [330/500], Step [3950/6000], Loss: 90.6733.
+Time Used: 8860.821s, Estimated Time Remaining: 4148.010s.
+
+Epoch [330/500], Step [3955/6000], Loss: 163.7447.
+Time Used: 8870.553s, Estimated Time Remaining: 4038.426s.
+
+Epoch [330/500], Step [3960/6000], Loss: 139.6764.
+Time Used: 8880.272s, Estimated Time Remaining: 3981.803s.
+
+Epoch [331/500], Step [3965/6000], Loss: 138.4315.
+Time Used: 8893.454s, Estimated Time Remaining: 3967.009s.
+
+Epoch [331/500], Step [3970/6000], Loss: 118.1216.
+Time Used: 8903.157s, Estimated Time Remaining: 3950.287s.
+
+Epoch [332/500], Step [3975/6000], Loss: 89.5582.
+Time Used: 8916.038s, Estimated Time Remaining: 4077.029s.
+
+Epoch [332/500], Step [3980/6000], Loss: 88.3478.
+Time Used: 8925.746s, Estimated Time Remaining: 3974.710s.
+
+Epoch [333/500], Step [3985/6000], Loss: 142.2364.
+Time Used: 8939.376s, Estimated Time Remaining: 3943.725s.
+
+Epoch [333/500], Step [3990/6000], Loss: 118.1828.
+Time Used: 8949.083s, Estimated Time Remaining: 3972.384s.
+
+Epoch [333/500], Step [3995/6000], Loss: 127.3175.
+Time Used: 8958.817s, Estimated Time Remaining: 3910.463s.
+
+Epoch [334/500], Step [4000/6000], Loss: 116.1985.
+Time Used: 8971.672s, Estimated Time Remaining: 3939.537s.
+
+Epoch [334/500], Step [4005/6000], Loss: 126.8386.
+Time Used: 8981.431s, Estimated Time Remaining: 3915.320s.
+
+Epoch [335/500], Step [4010/6000], Loss: 126.4796.
+Time Used: 8994.942s, Estimated Time Remaining: 3910.977s.
+
+Epoch [335/500], Step [4015/6000], Loss: 104.9510.
+Time Used: 9004.672s, Estimated Time Remaining: 3857.284s.
+
+Epoch [335/500], Step [4020/6000], Loss: 98.2171.
+Time Used: 9014.361s, Estimated Time Remaining: 3842.899s.
+
+Epoch [336/500], Step [4025/6000], Loss: 99.5066.
+Time Used: 9027.698s, Estimated Time Remaining: 3836.369s.
+
+Epoch [336/500], Step [4030/6000], Loss: 109.3726.
+Time Used: 9037.403s, Estimated Time Remaining: 3824.158s.
+
+Epoch [337/500], Step [4035/6000], Loss: 96.9850.
+Time Used: 9050.555s, Estimated Time Remaining: 3826.534s.
+
+Epoch [337/500], Step [4040/6000], Loss: 98.8948.
+Time Used: 9060.229s, Estimated Time Remaining: 3804.156s.
+
+Epoch [338/500], Step [4045/6000], Loss: 90.2542.
+Time Used: 9073.478s, Estimated Time Remaining: 3792.087s.
+
+Epoch [338/500], Step [4050/6000], Loss: 91.5852.
+Time Used: 9083.194s, Estimated Time Remaining: 3782.362s.
+
+Epoch [338/500], Step [4055/6000], Loss: 99.6795.
+Time Used: 9093.323s, Estimated Time Remaining: 3884.723s.
+
+Epoch [339/500], Step [4060/6000], Loss: 98.3146.
+Time Used: 9106.655s, Estimated Time Remaining: 3855.474s.
+
+Epoch [339/500], Step [4065/6000], Loss: 79.3494.
+Time Used: 9116.297s, Estimated Time Remaining: 3809.751s.
+
+Epoch [340/500], Step [4070/6000], Loss: 110.3963.
+Time Used: 9129.473s, Estimated Time Remaining: 3765.327s.
+
+Epoch [340/500], Step [4075/6000], Loss: 104.2770.
+Time Used: 9139.183s, Estimated Time Remaining: 3739.620s.
+
+Epoch [340/500], Step [4080/6000], Loss: 110.7467.
+Time Used: 9148.876s, Estimated Time Remaining: 3725.900s.
+
+Epoch [341/500], Step [4085/6000], Loss: 98.0987.
+Time Used: 9162.401s, Estimated Time Remaining: 3734.192s.
+
+Epoch [341/500], Step [4090/6000], Loss: 98.2138.
+Time Used: 9172.091s, Estimated Time Remaining: 3704.081s.
+
+Epoch [342/500], Step [4095/6000], Loss: 89.4219.
+Time Used: 9185.464s, Estimated Time Remaining: 3699.007s.
+
+Epoch [342/500], Step [4100/6000], Loss: 98.4081.
+Time Used: 9195.160s, Estimated Time Remaining: 3687.320s.
+
+Epoch [343/500], Step [4105/6000], Loss: 129.0728.
+Time Used: 9208.412s, Estimated Time Remaining: 3676.819s.
+
+Epoch [343/500], Step [4110/6000], Loss: 90.8515.
+Time Used: 9218.208s, Estimated Time Remaining: 3692.283s.
+
+Epoch [343/500], Step [4115/6000], Loss: 101.2068.
+Time Used: 9228.078s, Estimated Time Remaining: 3702.072s.
+
+Epoch [344/500], Step [4120/6000], Loss: 91.5167.
+Time Used: 9241.899s, Estimated Time Remaining: 3680.090s.
+
+Epoch [344/500], Step [4125/6000], Loss: 124.9844.
+Time Used: 9251.600s, Estimated Time Remaining: 3702.731s.
+
+Epoch [345/500], Step [4130/6000], Loss: 70.1122.
+Time Used: 9264.930s, Estimated Time Remaining: 3648.513s.
+
+Epoch [345/500], Step [4135/6000], Loss: 95.7488.
+Time Used: 9274.621s, Estimated Time Remaining: 3628.564s.
+
+Epoch [345/500], Step [4140/6000], Loss: 124.1425.
+Time Used: 9284.338s, Estimated Time Remaining: 3612.467s.
+
+Epoch [346/500], Step [4145/6000], Loss: 70.8495.
+Time Used: 9297.695s, Estimated Time Remaining: 3598.049s.
+
+Epoch [346/500], Step [4150/6000], Loss: 155.1082.
+Time Used: 9307.398s, Estimated Time Remaining: 3585.530s.
+
+Epoch [347/500], Step [4155/6000], Loss: 98.7255.
+Time Used: 9320.435s, Estimated Time Remaining: 3581.796s.
+
+Epoch [347/500], Step [4160/6000], Loss: 90.0739.
+Time Used: 9330.176s, Estimated Time Remaining: 3571.792s.
+
+Epoch [348/500], Step [4165/6000], Loss: 107.8668.
+Time Used: 9343.051s, Estimated Time Remaining: 3560.434s.
+
+Epoch [348/500], Step [4170/6000], Loss: 149.5118.
+Time Used: 9352.802s, Estimated Time Remaining: 3606.589s.
+
+Epoch [348/500], Step [4175/6000], Loss: 109.5533.
+Time Used: 9362.487s, Estimated Time Remaining: 3572.576s.
+
+Epoch [349/500], Step [4180/6000], Loss: 108.8396.
+Time Used: 9375.751s, Estimated Time Remaining: 3556.421s.
+
+Epoch [349/500], Step [4185/6000], Loss: 108.4214.
+Time Used: 9385.462s, Estimated Time Remaining: 3515.326s.
+
+Epoch [350/500], Step [4190/6000], Loss: 100.1220.
+Time Used: 9398.728s, Estimated Time Remaining: 3549.532s.
+
+Epoch [350/500], Step [4195/6000], Loss: 100.6108.
+Time Used: 9408.514s, Estimated Time Remaining: 3528.895s.
+
+Epoch [350/500], Step [4200/6000], Loss: 94.2884.
+Time Used: 9418.230s, Estimated Time Remaining: 3516.084s.
+
+Epoch [351/500], Step [4205/6000], Loss: 115.6637.
+Time Used: 9431.812s, Estimated Time Remaining: 3660.537s.
+
+Epoch [351/500], Step [4210/6000], Loss: 92.0627.
+Time Used: 9441.546s, Estimated Time Remaining: 3567.022s.
+
+Epoch [352/500], Step [4215/6000], Loss: 94.1272.
+Time Used: 9455.287s, Estimated Time Remaining: 3581.019s.
+
+Epoch [352/500], Step [4220/6000], Loss: 101.6871.
+Time Used: 9465.065s, Estimated Time Remaining: 3548.071s.
+
+Epoch [353/500], Step [4225/6000], Loss: 104.0522.
+Time Used: 9478.411s, Estimated Time Remaining: 3460.785s.
+
+Epoch [353/500], Step [4230/6000], Loss: 98.2778.
+Time Used: 9488.144s, Estimated Time Remaining: 3446.104s.
+
+Epoch [353/500], Step [4235/6000], Loss: 126.1750.
+Time Used: 9497.885s, Estimated Time Remaining: 3435.832s.
+
+Epoch [354/500], Step [4240/6000], Loss: 114.5990.
+Time Used: 9511.209s, Estimated Time Remaining: 3428.629s.
+
+Epoch [354/500], Step [4245/6000], Loss: 112.2494.
+Time Used: 9520.927s, Estimated Time Remaining: 3415.611s.
+
+Epoch [355/500], Step [4250/6000], Loss: 130.1905.
+Time Used: 9534.186s, Estimated Time Remaining: 3398.336s.
+
+Epoch [355/500], Step [4255/6000], Loss: 103.5812.
+Time Used: 9543.908s, Estimated Time Remaining: 3384.906s.
+
+Epoch [355/500], Step [4260/6000], Loss: 114.5970.
+Time Used: 9553.595s, Estimated Time Remaining: 3370.268s.
+
+Epoch [356/500], Step [4265/6000], Loss: 107.3741.
+Time Used: 9566.915s, Estimated Time Remaining: 3360.404s.
+
+Epoch [356/500], Step [4270/6000], Loss: 130.7557.
+Time Used: 9576.613s, Estimated Time Remaining: 3348.636s.
+
+Epoch [357/500], Step [4275/6000], Loss: 104.1257.
+Time Used: 9590.105s, Estimated Time Remaining: 3360.037s.
+
+Epoch [357/500], Step [4280/6000], Loss: 116.2541.
+Time Used: 9599.765s, Estimated Time Remaining: 3323.587s.
+
+Epoch [358/500], Step [4285/6000], Loss: 103.0895.
+Time Used: 9613.105s, Estimated Time Remaining: 3320.420s.
+
+Epoch [358/500], Step [4290/6000], Loss: 124.7768.
+Time Used: 9622.808s, Estimated Time Remaining: 3313.116s.
+
+Epoch [358/500], Step [4295/6000], Loss: 101.9596.
+Time Used: 9632.511s, Estimated Time Remaining: 3304.035s.
+
+Epoch [359/500], Step [4300/6000], Loss: 115.6177.
+Time Used: 9645.802s, Estimated Time Remaining: 3300.493s.
+
+Epoch [359/500], Step [4305/6000], Loss: 80.0013.
+Time Used: 9655.490s, Estimated Time Remaining: 3287.012s.
+
+Epoch [360/500], Step [4310/6000], Loss: 92.3300.
+Time Used: 9668.762s, Estimated Time Remaining: 3282.011s.
+
+Epoch [360/500], Step [4315/6000], Loss: 89.5651.
+Time Used: 9678.533s, Estimated Time Remaining: 3273.935s.
+
+Epoch [360/500], Step [4320/6000], Loss: 87.6705.
+Time Used: 9688.276s, Estimated Time Remaining: 3270.889s.
+
+Epoch [361/500], Step [4325/6000], Loss: 104.1973.
+Time Used: 9701.622s, Estimated Time Remaining: 3259.384s.
+
+Epoch [361/500], Step [4330/6000], Loss: 76.3482.
+Time Used: 9711.318s, Estimated Time Remaining: 3245.569s.
+
+Epoch [362/500], Step [4335/6000], Loss: 142.9563.
+Time Used: 9724.343s, Estimated Time Remaining: 3231.089s.
+
+Epoch [362/500], Step [4340/6000], Loss: 127.6981.
+Time Used: 9734.070s, Estimated Time Remaining: 3219.168s.
+
+Epoch [363/500], Step [4345/6000], Loss: 77.0250.
+Time Used: 9746.946s, Estimated Time Remaining: 3209.231s.
+
+Epoch [363/500], Step [4350/6000], Loss: 103.1519.
+Time Used: 9756.706s, Estimated Time Remaining: 3220.660s.
+
+Epoch [363/500], Step [4355/6000], Loss: 88.9817.
+Time Used: 9766.441s, Estimated Time Remaining: 3202.406s.
+
+Epoch [364/500], Step [4360/6000], Loss: 124.4290.
+Time Used: 9779.703s, Estimated Time Remaining: 3183.323s.
+
+Epoch [364/500], Step [4365/6000], Loss: 111.1480.
+Time Used: 9789.427s, Estimated Time Remaining: 3175.534s.
+
+Epoch [365/500], Step [4370/6000], Loss: 84.7102.
+Time Used: 9802.972s, Estimated Time Remaining: 3189.416s.
+
+Epoch [365/500], Step [4375/6000], Loss: 100.1808.
+Time Used: 9812.656s, Estimated Time Remaining: 3137.512s.
+
+Epoch [365/500], Step [4380/6000], Loss: 115.3326.
+Time Used: 9822.370s, Estimated Time Remaining: 3136.398s.
+
+Epoch [366/500], Step [4385/6000], Loss: 97.8295.
+Time Used: 9835.314s, Estimated Time Remaining: 3158.678s.
+
+Epoch [366/500], Step [4390/6000], Loss: 105.0867.
+Time Used: 9845.050s, Estimated Time Remaining: 3142.703s.
+
+Epoch [367/500], Step [4395/6000], Loss: 126.9695.
+Time Used: 9858.336s, Estimated Time Remaining: 3116.329s.
+
+Epoch [367/500], Step [4400/6000], Loss: 163.1452.
+Time Used: 9868.045s, Estimated Time Remaining: 3127.577s.
+
+Epoch [368/500], Step [4405/6000], Loss: 141.2643.
+Time Used: 9881.152s, Estimated Time Remaining: 3109.920s.
+
+Epoch [368/500], Step [4410/6000], Loss: 85.1047.
+Time Used: 9890.911s, Estimated Time Remaining: 3100.811s.
+
+Epoch [368/500], Step [4415/6000], Loss: 120.2229.
+Time Used: 9900.587s, Estimated Time Remaining: 3070.280s.
+
+Epoch [369/500], Step [4420/6000], Loss: 98.5459.
+Time Used: 9913.433s, Estimated Time Remaining: 3096.045s.
+
+Epoch [369/500], Step [4425/6000], Loss: 98.7944.
+Time Used: 9923.340s, Estimated Time Remaining: 3078.157s.
+
+Epoch [370/500], Step [4430/6000], Loss: 116.7369.
+Time Used: 9936.677s, Estimated Time Remaining: 3074.641s.
+
+Epoch [370/500], Step [4435/6000], Loss: 97.6899.
+Time Used: 9946.380s, Estimated Time Remaining: 3045.378s.
+
+Epoch [370/500], Step [4440/6000], Loss: 97.1136.
+Time Used: 9956.061s, Estimated Time Remaining: 3028.727s.
+
+Epoch [371/500], Step [4445/6000], Loss: 93.2484.
+Time Used: 9968.976s, Estimated Time Remaining: 3041.693s.
+
+Epoch [371/500], Step [4450/6000], Loss: 96.1357.
+Time Used: 9978.684s, Estimated Time Remaining: 3014.664s.
+
+Epoch [372/500], Step [4455/6000], Loss: 113.9794.
+Time Used: 9991.993s, Estimated Time Remaining: 3001.033s.
+
+Epoch [372/500], Step [4460/6000], Loss: 88.2635.
+Time Used: 10001.717s, Estimated Time Remaining: 2991.100s.
+
+Epoch [373/500], Step [4465/6000], Loss: 108.7302.
+Time Used: 10014.785s, Estimated Time Remaining: 2978.832s.
+
+Epoch [373/500], Step [4470/6000], Loss: 99.8269.
+Time Used: 10024.517s, Estimated Time Remaining: 2967.278s.
+
+Epoch [373/500], Step [4475/6000], Loss: 91.7622.
+Time Used: 10034.261s, Estimated Time Remaining: 2960.360s.
+
+Epoch [374/500], Step [4480/6000], Loss: 81.8219.
+Time Used: 10047.589s, Estimated Time Remaining: 2957.754s.
+
+Epoch [374/500], Step [4485/6000], Loss: 84.2089.
+Time Used: 10057.321s, Estimated Time Remaining: 2944.877s.
+
+Epoch [375/500], Step [4490/6000], Loss: 109.3738.
+Time Used: 10070.568s, Estimated Time Remaining: 2927.015s.
+
+Epoch [375/500], Step [4495/6000], Loss: 113.9572.
+Time Used: 10080.379s, Estimated Time Remaining: 2935.263s.
+
+Epoch [375/500], Step [4500/6000], Loss: 98.6199.
+Time Used: 10090.098s, Estimated Time Remaining: 2917.843s.
+
+Epoch [376/500], Step [4505/6000], Loss: 124.7055.
+Time Used: 10103.529s, Estimated Time Remaining: 2913.962s.
+
+Epoch [376/500], Step [4510/6000], Loss: 112.1487.
+Time Used: 10113.246s, Estimated Time Remaining: 2896.795s.
+
+Epoch [377/500], Step [4515/6000], Loss: 117.1347.
+Time Used: 10126.390s, Estimated Time Remaining: 2898.118s.
+
+Epoch [377/500], Step [4520/6000], Loss: 121.3457.
+Time Used: 10136.093s, Estimated Time Remaining: 2883.050s.
+
+Epoch [378/500], Step [4525/6000], Loss: 116.4356.
+Time Used: 10149.120s, Estimated Time Remaining: 2864.830s.
+
+Epoch [378/500], Step [4530/6000], Loss: 96.5180.
+Time Used: 10158.852s, Estimated Time Remaining: 2870.841s.
+
+Epoch [378/500], Step [4535/6000], Loss: 105.7462.
+Time Used: 10168.560s, Estimated Time Remaining: 2851.346s.
+
+Epoch [379/500], Step [4540/6000], Loss: 106.6330.
+Time Used: 10181.367s, Estimated Time Remaining: 2853.978s.
+
+Epoch [379/500], Step [4545/6000], Loss: 117.9754.
+Time Used: 10191.268s, Estimated Time Remaining: 2909.063s.
+
+Epoch [380/500], Step [4550/6000], Loss: 106.0161.
+Time Used: 10204.534s, Estimated Time Remaining: 2843.836s.
+
+Epoch [380/500], Step [4555/6000], Loss: 141.5264.
+Time Used: 10214.291s, Estimated Time Remaining: 2824.431s.
+
+Epoch [380/500], Step [4560/6000], Loss: 118.2662.
+Time Used: 10223.996s, Estimated Time Remaining: 2808.992s.
+
+Epoch [381/500], Step [4565/6000], Loss: 104.3667.
+Time Used: 10237.368s, Estimated Time Remaining: 2787.001s.
+
+Epoch [381/500], Step [4570/6000], Loss: 106.2413.
+Time Used: 10247.087s, Estimated Time Remaining: 2774.986s.
+
+Epoch [382/500], Step [4575/6000], Loss: 115.1490.
+Time Used: 10260.416s, Estimated Time Remaining: 2765.061s.
+
+Epoch [382/500], Step [4580/6000], Loss: 77.1398.
+Time Used: 10270.126s, Estimated Time Remaining: 2755.178s.
+
+Epoch [383/500], Step [4585/6000], Loss: 103.7712.
+Time Used: 10283.411s, Estimated Time Remaining: 2746.360s.
+
+Epoch [383/500], Step [4590/6000], Loss: 99.1524.
+Time Used: 10293.125s, Estimated Time Remaining: 2733.648s.
+
+Epoch [383/500], Step [4595/6000], Loss: 118.0817.
+Time Used: 10302.843s, Estimated Time Remaining: 2725.036s.
+
+Epoch [384/500], Step [4600/6000], Loss: 94.8480.
+Time Used: 10316.229s, Estimated Time Remaining: 2716.797s.
+
+Epoch [384/500], Step [4605/6000], Loss: 91.1378.
+Time Used: 10325.904s, Estimated Time Remaining: 2698.094s.
+
+Epoch [385/500], Step [4610/6000], Loss: 134.3113.
+Time Used: 10339.168s, Estimated Time Remaining: 2690.405s.
+
+Epoch [385/500], Step [4615/6000], Loss: 76.1362.
+Time Used: 10348.870s, Estimated Time Remaining: 2682.549s.
+
+Epoch [385/500], Step [4620/6000], Loss: 125.2352.
+Time Used: 10358.576s, Estimated Time Remaining: 2672.604s.
+
+Epoch [386/500], Step [4625/6000], Loss: 92.6801.
+Time Used: 10371.969s, Estimated Time Remaining: 2669.366s.
+
+Epoch [386/500], Step [4630/6000], Loss: 119.2131.
+Time Used: 10381.677s, Estimated Time Remaining: 2658.450s.
+
+Epoch [387/500], Step [4635/6000], Loss: 108.2972.
+Time Used: 10394.920s, Estimated Time Remaining: 2647.598s.
+
+Epoch [387/500], Step [4640/6000], Loss: 133.1215.
+Time Used: 10404.645s, Estimated Time Remaining: 2635.886s.
+
+Epoch [388/500], Step [4645/6000], Loss: 99.6934.
+Time Used: 10417.889s, Estimated Time Remaining: 2623.760s.
+
+Epoch [388/500], Step [4650/6000], Loss: 125.3728.
+Time Used: 10427.592s, Estimated Time Remaining: 2615.481s.
+
+Epoch [388/500], Step [4655/6000], Loss: 104.2776.
+Time Used: 10437.297s, Estimated Time Remaining: 2604.841s.
+
+Epoch [389/500], Step [4660/6000], Loss: 112.4806.
+Time Used: 10450.798s, Estimated Time Remaining: 2595.904s.
+
+Epoch [389/500], Step [4665/6000], Loss: 87.5593.
+Time Used: 10460.501s, Estimated Time Remaining: 2588.327s.
+
+Epoch [390/500], Step [4670/6000], Loss: 95.1001.
+Time Used: 10473.812s, Estimated Time Remaining: 2581.126s.
+
+Epoch [390/500], Step [4675/6000], Loss: 129.6403.
+Time Used: 10483.533s, Estimated Time Remaining: 2572.843s.
+
+Epoch [390/500], Step [4680/6000], Loss: 94.1487.
+Time Used: 10493.279s, Estimated Time Remaining: 2564.002s.
+
+Epoch [391/500], Step [4685/6000], Loss: 116.6119.
+Time Used: 10506.559s, Estimated Time Remaining: 2556.245s.
+
+Epoch [391/500], Step [4690/6000], Loss: 91.7548.
+Time Used: 10516.274s, Estimated Time Remaining: 2547.304s.
+
+Epoch [392/500], Step [4695/6000], Loss: 129.5774.
+Time Used: 10529.640s, Estimated Time Remaining: 2535.222s.
+
+Epoch [392/500], Step [4700/6000], Loss: 106.1473.
+Time Used: 10539.371s, Estimated Time Remaining: 2521.871s.
+
+Epoch [393/500], Step [4705/6000], Loss: 131.9235.
+Time Used: 10552.791s, Estimated Time Remaining: 2513.775s.
+
+Epoch [393/500], Step [4710/6000], Loss: 109.2315.
+Time Used: 10562.492s, Estimated Time Remaining: 2507.827s.
+
+Epoch [393/500], Step [4715/6000], Loss: 103.7226.
+Time Used: 10572.204s, Estimated Time Remaining: 2494.895s.
+
+Epoch [394/500], Step [4720/6000], Loss: 144.6663.
+Time Used: 10585.745s, Estimated Time Remaining: 2521.537s.
+
+Epoch [394/500], Step [4725/6000], Loss: 92.3116.
+Time Used: 10595.424s, Estimated Time Remaining: 2493.998s.
+
+Epoch [395/500], Step [4730/6000], Loss: 118.3529.
+Time Used: 10608.593s, Estimated Time Remaining: 2481.003s.
+
+Epoch [395/500], Step [4735/6000], Loss: 100.1662.
+Time Used: 10618.536s, Estimated Time Remaining: 2470.925s.
+
+Epoch [395/500], Step [4740/6000], Loss: 84.6993.
+Time Used: 10628.707s, Estimated Time Remaining: 2528.298s.
+
+Epoch [396/500], Step [4745/6000], Loss: 97.2604.
+Time Used: 10641.893s, Estimated Time Remaining: 2487.914s.
+
+Epoch [396/500], Step [4750/6000], Loss: 131.5797.
+Time Used: 10651.585s, Estimated Time Remaining: 2461.709s.
+
+Epoch [397/500], Step [4755/6000], Loss: 86.2100.
+Time Used: 10664.724s, Estimated Time Remaining: 2429.664s.
+
+Epoch [397/500], Step [4760/6000], Loss: 106.5492.
+Time Used: 10674.453s, Estimated Time Remaining: 2412.306s.
+
+Epoch [398/500], Step [4765/6000], Loss: 116.2348.
+Time Used: 10688.247s, Estimated Time Remaining: 2435.757s.
+
+Epoch [398/500], Step [4770/6000], Loss: 117.9018.
+Time Used: 10697.968s, Estimated Time Remaining: 2421.262s.
+
+Epoch [398/500], Step [4775/6000], Loss: 73.8146.
+Time Used: 10707.707s, Estimated Time Remaining: 2386.455s.
+
+Epoch [399/500], Step [4780/6000], Loss: 92.5159.
+Time Used: 10720.950s, Estimated Time Remaining: 2378.329s.
+
+Epoch [399/500], Step [4785/6000], Loss: 98.4033.
+Time Used: 10730.702s, Estimated Time Remaining: 2366.262s.
+
+Epoch [400/500], Step [4790/6000], Loss: 103.5141.
+Time Used: 10743.671s, Estimated Time Remaining: 2370.294s.
+
+Epoch [400/500], Step [4795/6000], Loss: 140.0144.
+Time Used: 10753.385s, Estimated Time Remaining: 2342.105s.
+
+Epoch [400/500], Step [4800/6000], Loss: 102.7772.
+Time Used: 10763.083s, Estimated Time Remaining: 2329.592s.
+
+Epoch [401/500], Step [4805/6000], Loss: 73.0515.
+Time Used: 10776.001s, Estimated Time Remaining: 2336.013s.
+
+Epoch [401/500], Step [4810/6000], Loss: 156.1420.
+Time Used: 10785.713s, Estimated Time Remaining: 2313.294s.
+
+Epoch [402/500], Step [4815/6000], Loss: 126.1679.
+Time Used: 10799.243s, Estimated Time Remaining: 2329.633s.
+
+Epoch [402/500], Step [4820/6000], Loss: 112.1319.
+Time Used: 10808.922s, Estimated Time Remaining: 2302.519s.
+
+Epoch [403/500], Step [4825/6000], Loss: 108.2776.
+Time Used: 10822.255s, Estimated Time Remaining: 2286.762s.
+
+Epoch [403/500], Step [4830/6000], Loss: 103.7295.
+Time Used: 10831.990s, Estimated Time Remaining: 2275.956s.
+
+Epoch [403/500], Step [4835/6000], Loss: 72.8165.
+Time Used: 10841.717s, Estimated Time Remaining: 2266.042s.
+
+Epoch [404/500], Step [4840/6000], Loss: 129.3353.
+Time Used: 10855.088s, Estimated Time Remaining: 2257.589s.
+
+Epoch [404/500], Step [4845/6000], Loss: 104.0153.
+Time Used: 10864.771s, Estimated Time Remaining: 2243.893s.
+
+Epoch [405/500], Step [4850/6000], Loss: 101.0234.
+Time Used: 10877.660s, Estimated Time Remaining: 2301.962s.
+
+Epoch [405/500], Step [4855/6000], Loss: 111.9882.
+Time Used: 10887.440s, Estimated Time Remaining: 2255.508s.
+
+Epoch [405/500], Step [4860/6000], Loss: 101.9661.
+Time Used: 10897.147s, Estimated Time Remaining: 2233.369s.
+
+Epoch [406/500], Step [4865/6000], Loss: 98.0566.
+Time Used: 10910.516s, Estimated Time Remaining: 2219.805s.
+
+Epoch [406/500], Step [4870/6000], Loss: 110.1535.
+Time Used: 10920.195s, Estimated Time Remaining: 2188.615s.
+
+Epoch [407/500], Step [4875/6000], Loss: 132.6230.
+Time Used: 10933.553s, Estimated Time Remaining: 2179.780s.
+
+Epoch [407/500], Step [4880/6000], Loss: 116.6948.
+Time Used: 10943.256s, Estimated Time Remaining: 2170.513s.
+
+Epoch [408/500], Step [4885/6000], Loss: 92.1483.
+Time Used: 10956.566s, Estimated Time Remaining: 2160.399s.
+
+Epoch [408/500], Step [4890/6000], Loss: 116.3734.
+Time Used: 10966.279s, Estimated Time Remaining: 2159.091s.
+
+Epoch [408/500], Step [4895/6000], Loss: 112.5621.
+Time Used: 10975.987s, Estimated Time Remaining: 2144.785s.
+
+Epoch [409/500], Step [4900/6000], Loss: 104.3638.
+Time Used: 10988.873s, Estimated Time Remaining: 2151.290s.
+
+Epoch [409/500], Step [4905/6000], Loss: 100.1332.
+Time Used: 10998.590s, Estimated Time Remaining: 2132.877s.
+
+Epoch [410/500], Step [4910/6000], Loss: 123.5201.
+Time Used: 11012.407s, Estimated Time Remaining: 2119.330s.
+
+Epoch [410/500], Step [4915/6000], Loss: 111.5188.
+Time Used: 11022.067s, Estimated Time Remaining: 2144.781s.
+
+Epoch [410/500], Step [4920/6000], Loss: 106.5240.
+Time Used: 11031.784s, Estimated Time Remaining: 2122.163s.
+
+Epoch [411/500], Step [4925/6000], Loss: 105.8360.
+Time Used: 11045.088s, Estimated Time Remaining: 2080.259s.
+
+Epoch [411/500], Step [4930/6000], Loss: 83.0817.
+Time Used: 11054.769s, Estimated Time Remaining: 2070.419s.
+
+Epoch [412/500], Step [4935/6000], Loss: 111.2856.
+Time Used: 11068.299s, Estimated Time Remaining: 2103.691s.
+
+Epoch [412/500], Step [4940/6000], Loss: 88.7891.
+Time Used: 11078.021s, Estimated Time Remaining: 2083.138s.
+
+Epoch [413/500], Step [4945/6000], Loss: 128.3576.
+Time Used: 11091.256s, Estimated Time Remaining: 2049.140s.
+
+Epoch [413/500], Step [4950/6000], Loss: 77.4584.
+Time Used: 11100.989s, Estimated Time Remaining: 2035.669s.
+
+Epoch [413/500], Step [4955/6000], Loss: 113.6019.
+Time Used: 11110.717s, Estimated Time Remaining: 2028.509s.
+
+Epoch [414/500], Step [4960/6000], Loss: 125.6283.
+Time Used: 11124.482s, Estimated Time Remaining: 2018.946s.
+
+Epoch [414/500], Step [4965/6000], Loss: 120.6995.
+Time Used: 11134.217s, Estimated Time Remaining: 2017.139s.
+
+Epoch [415/500], Step [4970/6000], Loss: 96.7967.
+Time Used: 11147.515s, Estimated Time Remaining: 2009.942s.
+
+Epoch [415/500], Step [4975/6000], Loss: 75.9199.
+Time Used: 11157.208s, Estimated Time Remaining: 1996.259s.
+
+Epoch [415/500], Step [4980/6000], Loss: 93.8372.
+Time Used: 11166.860s, Estimated Time Remaining: 1980.983s.
+
+Epoch [416/500], Step [4985/6000], Loss: 114.8057.
+Time Used: 11180.138s, Estimated Time Remaining: 2010.424s.
+
+Epoch [416/500], Step [4990/6000], Loss: 125.3315.
+Time Used: 11189.854s, Estimated Time Remaining: 1983.648s.
+
+Epoch [417/500], Step [4995/6000], Loss: 99.7943.
+Time Used: 11203.274s, Estimated Time Remaining: 1967.884s.
+
+Epoch [417/500], Step [5000/6000], Loss: 99.8114.
+Time Used: 11212.987s, Estimated Time Remaining: 1948.311s.
+
+Epoch [418/500], Step [5005/6000], Loss: 123.4340.
+Time Used: 11226.237s, Estimated Time Remaining: 1934.830s.
+
+Epoch [418/500], Step [5010/6000], Loss: 113.5259.
+Time Used: 11235.999s, Estimated Time Remaining: 1924.762s.
+
+Epoch [418/500], Step [5015/6000], Loss: 128.5082.
+Time Used: 11245.739s, Estimated Time Remaining: 1915.922s.
+
+Epoch [419/500], Step [5020/6000], Loss: 110.6827.
+Time Used: 11259.294s, Estimated Time Remaining: 2045.751s.
+
+Epoch [419/500], Step [5025/6000], Loss: 128.1781.
+Time Used: 11269.139s, Estimated Time Remaining: 1962.390s.
+
+Epoch [420/500], Step [5030/6000], Loss: 109.5553.
+Time Used: 11282.398s, Estimated Time Remaining: 1919.250s.
+
+Epoch [420/500], Step [5035/6000], Loss: 113.7508.
+Time Used: 11292.128s, Estimated Time Remaining: 1898.851s.
+
+Epoch [420/500], Step [5040/6000], Loss: 102.3813.
+Time Used: 11301.829s, Estimated Time Remaining: 1867.165s.
+
+Epoch [421/500], Step [5045/6000], Loss: 115.8284.
+Time Used: 11315.182s, Estimated Time Remaining: 1853.237s.
+
+Epoch [421/500], Step [5050/6000], Loss: 82.8293.
+Time Used: 11324.889s, Estimated Time Remaining: 1843.714s.
+
+Epoch [422/500], Step [5055/6000], Loss: 54.1013.
+Time Used: 11338.182s, Estimated Time Remaining: 1833.281s.
+
+Epoch [422/500], Step [5060/6000], Loss: 101.0778.
+Time Used: 11348.310s, Estimated Time Remaining: 1899.792s.
+
+Epoch [423/500], Step [5065/6000], Loss: 107.0318.
+Time Used: 11361.172s, Estimated Time Remaining: 1852.080s.
+
+Epoch [423/500], Step [5070/6000], Loss: 114.3545.
+Time Used: 11370.907s, Estimated Time Remaining: 1843.588s.
+
+Epoch [423/500], Step [5075/6000], Loss: 116.9174.
+Time Used: 11380.777s, Estimated Time Remaining: 1831.700s.
+
+Epoch [424/500], Step [5080/6000], Loss: 86.4811.
+Time Used: 11394.175s, Estimated Time Remaining: 1793.866s.
+
+Epoch [424/500], Step [5085/6000], Loss: 98.8528.
+Time Used: 11403.846s, Estimated Time Remaining: 1777.143s.
+
+Epoch [425/500], Step [5090/6000], Loss: 113.1291.
+Time Used: 11417.119s, Estimated Time Remaining: 1767.102s.
+
+Epoch [425/500], Step [5095/6000], Loss: 96.9860.
+Time Used: 11426.846s, Estimated Time Remaining: 1753.839s.
+
+Epoch [425/500], Step [5100/6000], Loss: 105.6920.
+Time Used: 11436.521s, Estimated Time Remaining: 1741.000s.
+
+Epoch [426/500], Step [5105/6000], Loss: 77.3798.
+Time Used: 11449.734s, Estimated Time Remaining: 1736.475s.
+
+Epoch [426/500], Step [5110/6000], Loss: 79.5353.
+Time Used: 11459.432s, Estimated Time Remaining: 1726.495s.
+
+Epoch [427/500], Step [5115/6000], Loss: 95.3268.
+Time Used: 11472.528s, Estimated Time Remaining: 1722.686s.
+
+Epoch [427/500], Step [5120/6000], Loss: 109.6867.
+Time Used: 11482.424s, Estimated Time Remaining: 1726.316s.
+
+Epoch [428/500], Step [5125/6000], Loss: 102.2090.
+Time Used: 11495.702s, Estimated Time Remaining: 1704.397s.
+
+Epoch [428/500], Step [5130/6000], Loss: 94.6439.
+Time Used: 11505.437s, Estimated Time Remaining: 1694.887s.
+
+Epoch [428/500], Step [5135/6000], Loss: 89.1851.
+Time Used: 11515.119s, Estimated Time Remaining: 1679.629s.
+
+Epoch [429/500], Step [5140/6000], Loss: 94.9756.
+Time Used: 11528.717s, Estimated Time Remaining: 1694.159s.
+
+Epoch [429/500], Step [5145/6000], Loss: 83.9103.
+Time Used: 11538.403s, Estimated Time Remaining: 1671.383s.
+
+Epoch [430/500], Step [5150/6000], Loss: 88.7280.
+Time Used: 11551.365s, Estimated Time Remaining: 1670.489s.
+
+Epoch [430/500], Step [5155/6000], Loss: 88.3887.
+Time Used: 11561.043s, Estimated Time Remaining: 1637.950s.
+
+Epoch [430/500], Step [5160/6000], Loss: 132.1874.
+Time Used: 11570.740s, Estimated Time Remaining: 1628.301s.
+
+Epoch [431/500], Step [5165/6000], Loss: 114.3712.
+Time Used: 11584.401s, Estimated Time Remaining: 1642.662s.
+
+Epoch [431/500], Step [5170/6000], Loss: 94.3092.
+Time Used: 11594.100s, Estimated Time Remaining: 1627.285s.
+
+Epoch [432/500], Step [5175/6000], Loss: 106.0623.
+Time Used: 11607.005s, Estimated Time Remaining: 1636.494s.
+
+Epoch [432/500], Step [5180/6000], Loss: 100.0899.
+Time Used: 11616.710s, Estimated Time Remaining: 1608.165s.
+
+Epoch [433/500], Step [5185/6000], Loss: 75.9775.
+Time Used: 11629.896s, Estimated Time Remaining: 1593.164s.
+
+Epoch [433/500], Step [5190/6000], Loss: 95.6680.
+Time Used: 11639.542s, Estimated Time Remaining: 1556.712s.
+
+Epoch [433/500], Step [5195/6000], Loss: 117.9728.
+Time Used: 11649.215s, Estimated Time Remaining: 1550.470s.
+
+Epoch [434/500], Step [5200/6000], Loss: 115.4631.
+Time Used: 11662.539s, Estimated Time Remaining: 1542.885s.
+
+Epoch [434/500], Step [5205/6000], Loss: 121.3956.
+Time Used: 11672.249s, Estimated Time Remaining: 1535.214s.
+
+Epoch [435/500], Step [5210/6000], Loss: 60.3213.
+Time Used: 11685.590s, Estimated Time Remaining: 1532.771s.
+
+Epoch [435/500], Step [5215/6000], Loss: 105.8541.
+Time Used: 11695.383s, Estimated Time Remaining: 1530.240s.
+
+Epoch [435/500], Step [5220/6000], Loss: 103.4642.
+Time Used: 11705.049s, Estimated Time Remaining: 1515.051s.
+
+Epoch [436/500], Step [5225/6000], Loss: 95.2162.
+Time Used: 11717.951s, Estimated Time Remaining: 1514.640s.
+
+Epoch [436/500], Step [5230/6000], Loss: 75.8835.
+Time Used: 11727.623s, Estimated Time Remaining: 1490.341s.
+
+Epoch [437/500], Step [5235/6000], Loss: 95.5489.
+Time Used: 11740.487s, Estimated Time Remaining: 1501.211s.
+
+Epoch [437/500], Step [5240/6000], Loss: 75.9105.
+Time Used: 11750.238s, Estimated Time Remaining: 1486.137s.
+
+Epoch [438/500], Step [5245/6000], Loss: 164.9989.
+Time Used: 11763.564s, Estimated Time Remaining: 1473.611s.
+
+Epoch [438/500], Step [5250/6000], Loss: 81.7125.
+Time Used: 11773.280s, Estimated Time Remaining: 1454.562s.
+
+Epoch [438/500], Step [5255/6000], Loss: 109.8000.
+Time Used: 11783.000s, Estimated Time Remaining: 1445.805s.
+
+Epoch [439/500], Step [5260/6000], Loss: 96.3294.
+Time Used: 11796.357s, Estimated Time Remaining: 1438.161s.
+
+Epoch [439/500], Step [5265/6000], Loss: 77.6493.
+Time Used: 11806.080s, Estimated Time Remaining: 1428.169s.
+
+Epoch [440/500], Step [5270/6000], Loss: 97.0796.
+Time Used: 11819.114s, Estimated Time Remaining: 1423.741s.
+
+Epoch [440/500], Step [5275/6000], Loss: 103.4488.
+Time Used: 11828.852s, Estimated Time Remaining: 1408.643s.
+
+Epoch [440/500], Step [5280/6000], Loss: 90.2041.
+Time Used: 11838.569s, Estimated Time Remaining: 1398.393s.
+
+Epoch [441/500], Step [5285/6000], Loss: 98.0377.
+Time Used: 11851.499s, Estimated Time Remaining: 1390.577s.
+
+Epoch [441/500], Step [5290/6000], Loss: 115.1797.
+Time Used: 11861.201s, Estimated Time Remaining: 1378.765s.
+
+Epoch [442/500], Step [5295/6000], Loss: 89.5092.
+Time Used: 11874.306s, Estimated Time Remaining: 1373.524s.
+
+Epoch [442/500], Step [5300/6000], Loss: 95.5452.
+Time Used: 11884.011s, Estimated Time Remaining: 1360.892s.
+
+Epoch [443/500], Step [5305/6000], Loss: 88.5878.
+Time Used: 11897.220s, Estimated Time Remaining: 1345.118s.
+
+Epoch [443/500], Step [5310/6000], Loss: 122.4429.
+Time Used: 11906.947s, Estimated Time Remaining: 1338.536s.
+
+Epoch [443/500], Step [5315/6000], Loss: 138.3760.
+Time Used: 11916.682s, Estimated Time Remaining: 1329.473s.
+
+Epoch [444/500], Step [5320/6000], Loss: 89.4929.
+Time Used: 11929.882s, Estimated Time Remaining: 1320.024s.
+
+Epoch [444/500], Step [5325/6000], Loss: 75.4896.
+Time Used: 11939.558s, Estimated Time Remaining: 1306.520s.
+
+Epoch [445/500], Step [5330/6000], Loss: 103.1466.
+Time Used: 11952.863s, Estimated Time Remaining: 1298.700s.
+
+Epoch [445/500], Step [5335/6000], Loss: 84.5952.
+Time Used: 11962.587s, Estimated Time Remaining: 1289.892s.
+
+Epoch [445/500], Step [5340/6000], Loss: 92.6955.
+Time Used: 11972.307s, Estimated Time Remaining: 1280.545s.
+
+Epoch [446/500], Step [5345/6000], Loss: 111.3322.
+Time Used: 11985.667s, Estimated Time Remaining: 1272.997s.
+
+Epoch [446/500], Step [5350/6000], Loss: 112.7207.
+Time Used: 11995.369s, Estimated Time Remaining: 1261.979s.
+
+Epoch [447/500], Step [5355/6000], Loss: 94.3238.
+Time Used: 12008.462s, Estimated Time Remaining: 1253.286s.
+
+Epoch [447/500], Step [5360/6000], Loss: 109.5940.
+Time Used: 12018.170s, Estimated Time Remaining: 1242.817s.
+
+Epoch [448/500], Step [5365/6000], Loss: 109.0926.
+Time Used: 12031.327s, Estimated Time Remaining: 1228.231s.
+
+Epoch [448/500], Step [5370/6000], Loss: 76.3085.
+Time Used: 12041.073s, Estimated Time Remaining: 1223.643s.
+
+Epoch [448/500], Step [5375/6000], Loss: 72.3203.
+Time Used: 12050.785s, Estimated Time Remaining: 1213.582s.
+
+Epoch [449/500], Step [5380/6000], Loss: 119.6943.
+Time Used: 12064.328s, Estimated Time Remaining: 1255.237s.
+
+Epoch [449/500], Step [5385/6000], Loss: 84.1012.
+Time Used: 12074.063s, Estimated Time Remaining: 1210.944s.
+
+Epoch [450/500], Step [5390/6000], Loss: 95.3721.
+Time Used: 12087.305s, Estimated Time Remaining: 1195.951s.
+
+Epoch [450/500], Step [5395/6000], Loss: 76.3864.
+Time Used: 12097.022s, Estimated Time Remaining: 1182.783s.
+
+Epoch [450/500], Step [5400/6000], Loss: 99.6900.
+Time Used: 12106.774s, Estimated Time Remaining: 1168.870s.
+
+Epoch [451/500], Step [5405/6000], Loss: 75.6140.
+Time Used: 12120.096s, Estimated Time Remaining: 1156.680s.
+
+Epoch [451/500], Step [5410/6000], Loss: 76.9776.
+Time Used: 12129.834s, Estimated Time Remaining: 1147.859s.
+
+Epoch [452/500], Step [5415/6000], Loss: 95.9456.
+Time Used: 12143.125s, Estimated Time Remaining: 1138.556s.
+
+Epoch [452/500], Step [5420/6000], Loss: 117.5729.
+Time Used: 12152.854s, Estimated Time Remaining: 1124.330s.
+
+Epoch [453/500], Step [5425/6000], Loss: 109.5425.
+Time Used: 12166.190s, Estimated Time Remaining: 1116.874s.
+
+Epoch [453/500], Step [5430/6000], Loss: 76.7510.
+Time Used: 12175.920s, Estimated Time Remaining: 1106.878s.
+
+Epoch [453/500], Step [5435/6000], Loss: 84.2416.
+Time Used: 12185.642s, Estimated Time Remaining: 1097.330s.
+
+Epoch [454/500], Step [5440/6000], Loss: 89.0342.
+Time Used: 12199.140s, Estimated Time Remaining: 1111.473s.
+
+Epoch [454/500], Step [5445/6000], Loss: 92.8144.
+Time Used: 12208.861s, Estimated Time Remaining: 1090.183s.
+
+Epoch [455/500], Step [5450/6000], Loss: 103.2262.
+Time Used: 12222.186s, Estimated Time Remaining: 1079.518s.
+
+Epoch [455/500], Step [5455/6000], Loss: 92.7819.
+Time Used: 12231.946s, Estimated Time Remaining: 1067.272s.
+
+Epoch [455/500], Step [5460/6000], Loss: 124.2586.
+Time Used: 12241.666s, Estimated Time Remaining: 1049.374s.
+
+Epoch [456/500], Step [5465/6000], Loss: 106.8522.
+Time Used: 12254.872s, Estimated Time Remaining: 1038.591s.
+
+Epoch [456/500], Step [5470/6000], Loss: 97.3589.
+Time Used: 12264.599s, Estimated Time Remaining: 1029.490s.
+
+Epoch [457/500], Step [5475/6000], Loss: 94.1972.
+Time Used: 12278.024s, Estimated Time Remaining: 1019.509s.
+
+Epoch [457/500], Step [5480/6000], Loss: 104.5334.
+Time Used: 12287.741s, Estimated Time Remaining: 1010.301s.
+
+Epoch [458/500], Step [5485/6000], Loss: 108.8070.
+Time Used: 12301.010s, Estimated Time Remaining: 1001.019s.
+
+Epoch [458/500], Step [5490/6000], Loss: 85.9304.
+Time Used: 12310.794s, Estimated Time Remaining: 998.241s.
+
+Epoch [458/500], Step [5495/6000], Loss: 103.9812.
+Time Used: 12320.524s, Estimated Time Remaining: 983.784s.
+
+Epoch [459/500], Step [5500/6000], Loss: 111.6018.
+Time Used: 12333.410s, Estimated Time Remaining: 988.527s.
+
+Epoch [459/500], Step [5505/6000], Loss: 100.5584.
+Time Used: 12343.199s, Estimated Time Remaining: 972.857s.
+
+Epoch [460/500], Step [5510/6000], Loss: 96.8400.
+Time Used: 12356.526s, Estimated Time Remaining: 960.130s.
+
+Epoch [460/500], Step [5515/6000], Loss: 76.7900.
+Time Used: 12366.203s, Estimated Time Remaining: 942.349s.
+
+Epoch [460/500], Step [5520/6000], Loss: 109.7678.
+Time Used: 12375.885s, Estimated Time Remaining: 930.413s.
+
+Epoch [461/500], Step [5525/6000], Loss: 107.3101.
+Time Used: 12388.751s, Estimated Time Remaining: 929.824s.
+
+Epoch [461/500], Step [5530/6000], Loss: 102.8452.
+Time Used: 12398.502s, Estimated Time Remaining: 918.354s.
+
+Epoch [462/500], Step [5535/6000], Loss: 80.2462.
+Time Used: 12411.725s, Estimated Time Remaining: 905.135s.
+
+Epoch [462/500], Step [5540/6000], Loss: 61.3088.
+Time Used: 12421.425s, Estimated Time Remaining: 893.365s.
+
+Epoch [463/500], Step [5545/6000], Loss: 146.3143.
+Time Used: 12434.453s, Estimated Time Remaining: 882.385s.
+
+Epoch [463/500], Step [5550/6000], Loss: 100.0611.
+Time Used: 12444.190s, Estimated Time Remaining: 873.989s.
+
+Epoch [463/500], Step [5555/6000], Loss: 85.9174.
+Time Used: 12453.909s, Estimated Time Remaining: 863.207s.
+
+Epoch [464/500], Step [5560/6000], Loss: 105.8608.
+Time Used: 12467.279s, Estimated Time Remaining: 854.149s.
+
+Epoch [464/500], Step [5565/6000], Loss: 108.3907.
+Time Used: 12476.965s, Estimated Time Remaining: 844.068s.
+
+Epoch [465/500], Step [5570/6000], Loss: 80.0886.
+Time Used: 12490.368s, Estimated Time Remaining: 840.948s.
+
+Epoch [465/500], Step [5575/6000], Loss: 77.9955.
+Time Used: 12500.255s, Estimated Time Remaining: 836.688s.
+
+Epoch [465/500], Step [5580/6000], Loss: 93.7232.
+Time Used: 12509.973s, Estimated Time Remaining: 827.379s.
+
+Epoch [466/500], Step [5585/6000], Loss: 106.3216.
+Time Used: 12522.880s, Estimated Time Remaining: 819.217s.
+
+Epoch [466/500], Step [5590/6000], Loss: 95.5655.
+Time Used: 12532.617s, Estimated Time Remaining: 800.803s.
+
+Epoch [467/500], Step [5595/6000], Loss: 113.8001.
+Time Used: 12545.720s, Estimated Time Remaining: 791.149s.
+
+Epoch [467/500], Step [5600/6000], Loss: 92.8288.
+Time Used: 12555.480s, Estimated Time Remaining: 780.406s.
+
+Epoch [468/500], Step [5605/6000], Loss: 84.8660.
+Time Used: 12568.812s, Estimated Time Remaining: 770.120s.
+
+Epoch [468/500], Step [5610/6000], Loss: 99.1957.
+Time Used: 12578.545s, Estimated Time Remaining: 756.957s.
+
+Epoch [468/500], Step [5615/6000], Loss: 91.5600.
+Time Used: 12588.252s, Estimated Time Remaining: 747.306s.
+
+Epoch [469/500], Step [5620/6000], Loss: 103.2802.
+Time Used: 12601.616s, Estimated Time Remaining: 742.183s.
+
+Epoch [469/500], Step [5625/6000], Loss: 64.0093.
+Time Used: 12611.347s, Estimated Time Remaining: 731.111s.
+
+Epoch [470/500], Step [5630/6000], Loss: 84.2625.
+Time Used: 12624.588s, Estimated Time Remaining: 716.011s.
+
+Epoch [470/500], Step [5635/6000], Loss: 73.1815.
+Time Used: 12634.307s, Estimated Time Remaining: 706.293s.
+
+Epoch [470/500], Step [5640/6000], Loss: 113.5432.
+Time Used: 12644.017s, Estimated Time Remaining: 697.359s.
+
+Epoch [471/500], Step [5645/6000], Loss: 97.3628.
+Time Used: 12657.318s, Estimated Time Remaining: 688.149s.
+
+Epoch [471/500], Step [5650/6000], Loss: 91.7916.
+Time Used: 12666.998s, Estimated Time Remaining: 676.260s.
+
+Epoch [472/500], Step [5655/6000], Loss: 121.1426.
+Time Used: 12680.114s, Estimated Time Remaining: 670.366s.
+
+Epoch [472/500], Step [5660/6000], Loss: 94.2141.
+Time Used: 12689.823s, Estimated Time Remaining: 660.319s.
+
+Epoch [473/500], Step [5665/6000], Loss: 102.4644.
+Time Used: 12703.119s, Estimated Time Remaining: 649.477s.
+
+Epoch [473/500], Step [5670/6000], Loss: 101.4549.
+Time Used: 12712.855s, Estimated Time Remaining: 640.262s.
+
+Epoch [473/500], Step [5675/6000], Loss: 133.1767.
+Time Used: 12722.506s, Estimated Time Remaining: 628.952s.
+
+Epoch [474/500], Step [5680/6000], Loss: 98.8973.
+Time Used: 12735.703s, Estimated Time Remaining: 620.555s.
+
+Epoch [474/500], Step [5685/6000], Loss: 106.1613.
+Time Used: 12745.392s, Estimated Time Remaining: 610.113s.
+
+Epoch [475/500], Step [5690/6000], Loss: 121.9625.
+Time Used: 12758.717s, Estimated Time Remaining: 601.032s.
+
+Epoch [475/500], Step [5695/6000], Loss: 103.0731.
+Time Used: 12768.429s, Estimated Time Remaining: 591.415s.
+
+Epoch [475/500], Step [5700/6000], Loss: 93.2320.
+Time Used: 12778.139s, Estimated Time Remaining: 581.737s.
+
+Epoch [476/500], Step [5705/6000], Loss: 101.1386.
+Time Used: 12791.431s, Estimated Time Remaining: 572.498s.
+
+Epoch [476/500], Step [5710/6000], Loss: 103.3962.
+Time Used: 12801.165s, Estimated Time Remaining: 563.511s.
+
+Epoch [477/500], Step [5715/6000], Loss: 85.9273.
+Time Used: 12814.261s, Estimated Time Remaining: 554.773s.
+
+Epoch [477/500], Step [5720/6000], Loss: 103.3591.
+Time Used: 12823.992s, Estimated Time Remaining: 544.709s.
+
+Epoch [478/500], Step [5725/6000], Loss: 94.9973.
+Time Used: 12837.374s, Estimated Time Remaining: 533.928s.
+
+Epoch [478/500], Step [5730/6000], Loss: 85.2438.
+Time Used: 12847.057s, Estimated Time Remaining: 523.411s.
+
+Epoch [478/500], Step [5735/6000], Loss: 91.0707.
+Time Used: 12856.799s, Estimated Time Remaining: 514.376s.
+
+Epoch [479/500], Step [5740/6000], Loss: 116.0376.
+Time Used: 12869.870s, Estimated Time Remaining: 505.805s.
+
+Epoch [479/500], Step [5745/6000], Loss: 94.1567.
+Time Used: 12879.615s, Estimated Time Remaining: 496.163s.
+
+Epoch [480/500], Step [5750/6000], Loss: 79.0466.
+Time Used: 12892.789s, Estimated Time Remaining: 486.420s.
+
+Epoch [480/500], Step [5755/6000], Loss: 88.0091.
+Time Used: 12902.491s, Estimated Time Remaining: 475.918s.
+
+Epoch [480/500], Step [5760/6000], Loss: 88.9829.
+Time Used: 12912.197s, Estimated Time Remaining: 465.669s.
+
+Epoch [481/500], Step [5765/6000], Loss: 84.0521.
+Time Used: 12925.073s, Estimated Time Remaining: 464.911s.
+
+Epoch [481/500], Step [5770/6000], Loss: 94.8877.
+Time Used: 12934.783s, Estimated Time Remaining: 450.812s.
+
+Epoch [482/500], Step [5775/6000], Loss: 127.0627.
+Time Used: 12948.144s, Estimated Time Remaining: 439.964s.
+
+Epoch [482/500], Step [5780/6000], Loss: 115.5419.
+Time Used: 12957.850s, Estimated Time Remaining: 427.455s.
+
+Epoch [483/500], Step [5785/6000], Loss: 91.4535.
+Time Used: 12970.938s, Estimated Time Remaining: 416.529s.
+
+Epoch [483/500], Step [5790/6000], Loss: 113.2430.
+Time Used: 12980.651s, Estimated Time Remaining: 407.368s.
+
+Epoch [483/500], Step [5795/6000], Loss: 126.2737.
+Time Used: 12990.380s, Estimated Time Remaining: 397.486s.
+
+Epoch [484/500], Step [5800/6000], Loss: 115.2458.
+Time Used: 13003.644s, Estimated Time Remaining: 387.839s.
+
+Epoch [484/500], Step [5805/6000], Loss: 78.4334.
+Time Used: 13013.583s, Estimated Time Remaining: 379.208s.
+
+Epoch [485/500], Step [5810/6000], Loss: 126.5331.
+Time Used: 13026.430s, Estimated Time Remaining: 374.116s.
+
+Epoch [485/500], Step [5815/6000], Loss: 90.2131.
+Time Used: 13036.147s, Estimated Time Remaining: 362.906s.
+
+Epoch [485/500], Step [5820/6000], Loss: 98.1009.
+Time Used: 13045.870s, Estimated Time Remaining: 349.766s.
+
+Epoch [486/500], Step [5825/6000], Loss: 80.7128.
+Time Used: 13058.855s, Estimated Time Remaining: 343.932s.
+
+Epoch [486/500], Step [5830/6000], Loss: 74.4072.
+Time Used: 13068.570s, Estimated Time Remaining: 332.800s.
+
+Epoch [487/500], Step [5835/6000], Loss: 112.0178.
+Time Used: 13081.768s, Estimated Time Remaining: 322.448s.
+
+Epoch [487/500], Step [5840/6000], Loss: 65.3019.
+Time Used: 13091.502s, Estimated Time Remaining: 310.272s.
+
+Epoch [488/500], Step [5845/6000], Loss: 102.1392.
+Time Used: 13104.859s, Estimated Time Remaining: 300.629s.
+
+Epoch [488/500], Step [5850/6000], Loss: 136.9479.
+Time Used: 13114.597s, Estimated Time Remaining: 291.879s.
+
+Epoch [488/500], Step [5855/6000], Loss: 93.7856.
+Time Used: 13124.322s, Estimated Time Remaining: 281.808s.
+
+Epoch [489/500], Step [5860/6000], Loss: 113.6971.
+Time Used: 13137.481s, Estimated Time Remaining: 273.264s.
+
+Epoch [489/500], Step [5865/6000], Loss: 72.5821.
+Time Used: 13147.167s, Estimated Time Remaining: 262.492s.
+
+Epoch [490/500], Step [5870/6000], Loss: 94.2273.
+Time Used: 13160.272s, Estimated Time Remaining: 253.263s.
+
+Epoch [490/500], Step [5875/6000], Loss: 94.4786.
+Time Used: 13169.981s, Estimated Time Remaining: 242.744s.
+
+Epoch [490/500], Step [5880/6000], Loss: 116.6097.
+Time Used: 13179.867s, Estimated Time Remaining: 232.957s.
+
+Epoch [491/500], Step [5885/6000], Loss: 109.1300.
+Time Used: 13193.365s, Estimated Time Remaining: 226.257s.
+
+Epoch [491/500], Step [5890/6000], Loss: 98.6189.
+Time Used: 13203.015s, Estimated Time Remaining: 215.248s.
+
+Epoch [492/500], Step [5895/6000], Loss: 80.2712.
+Time Used: 13215.874s, Estimated Time Remaining: 211.312s.
+
+Epoch [492/500], Step [5900/6000], Loss: 83.4971.
+Time Used: 13225.609s, Estimated Time Remaining: 197.010s.
+
+Epoch [493/500], Step [5905/6000], Loss: 86.3544.
+Time Used: 13238.782s, Estimated Time Remaining: 186.068s.
+
+Epoch [493/500], Step [5910/6000], Loss: 96.1467.
+Time Used: 13248.516s, Estimated Time Remaining: 175.971s.
+
+Epoch [493/500], Step [5915/6000], Loss: 72.4388.
+Time Used: 13258.234s, Estimated Time Remaining: 165.196s.
+
+Epoch [494/500], Step [5920/6000], Loss: 83.7248.
+Time Used: 13271.594s, Estimated Time Remaining: 155.445s.
+
+Epoch [494/500], Step [5925/6000], Loss: 122.1131.
+Time Used: 13281.326s, Estimated Time Remaining: 145.682s.
+
+Epoch [495/500], Step [5930/6000], Loss: 76.1884.
+Time Used: 13294.777s, Estimated Time Remaining: 136.658s.
+
+Epoch [495/500], Step [5935/6000], Loss: 112.2228.
+Time Used: 13304.522s, Estimated Time Remaining: 126.261s.
+
+Epoch [495/500], Step [5940/6000], Loss: 121.9740.
+Time Used: 13314.227s, Estimated Time Remaining: 116.499s.
+
+Epoch [496/500], Step [5945/6000], Loss: 76.8767.
+Time Used: 13327.354s, Estimated Time Remaining: 107.003s.
+
+Epoch [496/500], Step [5950/6000], Loss: 105.3455.
+Time Used: 13337.217s, Estimated Time Remaining: 97.113s.
+
+Epoch [497/500], Step [5955/6000], Loss: 89.4917.
+Time Used: 13350.485s, Estimated Time Remaining: 88.067s.
+
+Epoch [497/500], Step [5960/6000], Loss: 105.1559.
+Time Used: 13360.211s, Estimated Time Remaining: 77.911s.
+
+Epoch [498/500], Step [5965/6000], Loss: 117.2964.
+Time Used: 13373.510s, Estimated Time Remaining: 68.022s.
+
+Epoch [498/500], Step [5970/6000], Loss: 95.4182.
+Time Used: 13383.216s, Estimated Time Remaining: 58.094s.
+
+Epoch [498/500], Step [5975/6000], Loss: 67.8480.
+Time Used: 13392.979s, Estimated Time Remaining: 48.560s.
+
+Epoch [499/500], Step [5980/6000], Loss: 98.2993.
+Time Used: 13406.310s, Estimated Time Remaining: 38.862s.
+
+Epoch [499/500], Step [5985/6000], Loss: 111.8328.
+Time Used: 13416.197s, Estimated Time Remaining: 29.279s.
+
+Epoch [500/500], Step [5990/6000], Loss: 91.1273.
+Time Used: 13429.503s, Estimated Time Remaining: 19.460s.
+
+Epoch [500/500], Step [5995/6000], Loss: 87.3041.
+Time Used: 13439.218s, Estimated Time Remaining: 9.723s.
+
+Epoch [500/500], Step [6000/6000], Loss: 92.3821.
+Time Used: 13449.140s, Estimated Time Remaining: 0.000s.
+

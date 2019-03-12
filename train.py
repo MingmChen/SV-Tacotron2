@@ -38,8 +38,8 @@ def main(args):
     )
 
     # Get training loader
-    training_loader = DataLoader(
-        dataset, batch_size=hp.N, shuffle=True, collate_fn=collate_fn, num_workers=cpu_count())
+    training_loader = DataLoader(dataset, batch_size=hp.N, shuffle=True,
+                                 drop_last=True, collate_fn=collate_fn, num_workers=cpu_count())
     print("Get Training Loader")
 
     # Load checkpoint if exists
@@ -75,9 +75,12 @@ def main(args):
 
             # Load Data
             batch = torch.from_numpy(batch).float().to(device)
+            # print(batch.size())
+            # print(len(training_loader))
             embeddings = model(batch)
 
             # Loss
+            # print(embeddings.size())
             embeddings = embeddings.contiguous().view(hp.N, hp.M, -1)
             loss = GE2E_loss(embeddings)
 

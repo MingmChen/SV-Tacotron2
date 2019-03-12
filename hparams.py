@@ -20,13 +20,14 @@ re_num = 1e-6
 
 # Train
 dataset_path = "./dataset"
-origin_data = "./SV-dataset/wav_data"
+dataset_test_path = "./dataset_test"
+origin_data = "D:/wav48"
 total_utterance = 200
-N = 5  # batch_size
+N = 9  # batch_size
 M = 10
 learning_rate = 0.01
 epochs = 500
 checkpoint_path = "./model_new"
-save_step = 5
+save_step = 500
 log_step = 5
 clear_Time = 20
